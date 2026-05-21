@@ -12,26 +12,63 @@ OUT_META = "data/processed/depmap/depmap_metadata.csv"
 
 expr = pd.read_csv(EXPR_FILE)
 
-print(expr.shape)
+print("Original shape:", expr.shape)
 
-# Keep default entries only if available
+# =========================
+# KEEP DEFAULT ENTRIES
+# =========================
+
 if "is_default_entry" in expr.columns:
     expr = expr[expr["is_default_entry"] == True]
 
-# Set index
+# =========================
+# SET INDEX
+# =========================
+
 expr = expr.set_index("ModelID")
 
-# Remove metadata columns
+# =========================
+# REMOVE METADATA COLUMNS
+# =========================
+
 meta_cols = [
     "ProfileID",
-    "is_default_entry"
+    "is_default_entry",
+    "SequencingID",
+    "ModelConditionID",
+    "IsDefaultEntryForMC",
+    "IsDefaultEntryForModel"
 ]
 
 existing = [c for c in meta_cols if c in expr.columns]
 
 expr = expr.drop(columns=existing)
 
-print(expr.shape)
+# =========================
+# CLEAN GENE NAMES
+# =========================
+
+clean_cols = []
+
+for col in expr.columns:
+
+    # Example:
+    # TP53 (7157) -> TP53
+
+    gene = col.split(" (")[0]
+
+    clean_cols.append(gene)
+
+expr.columns = clean_cols
+
+print("Cleaned shape:", expr.shape)
+
+print("\nExample genes:")
+print(expr.columns[:20])
+
+# =========================
+# SAVE EXPRESSION
+# =========================
 
 expr.to_csv(OUT_EXPR)
 
@@ -53,4 +90,4 @@ meta = meta[keep_cols]
 
 meta.to_csv(OUT_META, index=False)
 
-print("Done")
+print("\nDone")
