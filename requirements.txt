@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+networkx
+matplotlib
+seaborn
+gseapy
+scanpy
+anndata
+torch
+torch-geometric
+tqdm
