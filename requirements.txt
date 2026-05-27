@@ -11,3 +11,4 @@ anndata
 torch
 torch-geometric
 tqdm
+node2vec

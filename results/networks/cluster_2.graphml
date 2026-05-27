@@ -1,0 +1,2980 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="AGE-RAGE signaling pathway in diabetic complications" />
+    <node id="Amoebiasis" />
+    <node id="Chagas disease" />
+    <node id="ECM-receptor interaction" />
+    <node id="Focal adhesion" />
+    <node id="Human papillomavirus infection" />
+    <node id="Leukocyte transendothelial migration" />
+    <node id="MAPK signaling pathway" />
+    <node id="PI3K-Akt signaling pathway" />
+    <node id="Pathways in cancer" />
+    <node id="Protein digestion and absorption" />
+    <node id="Proteoglycans in cancer" />
+    <node id="Regulation of actin cytoskeleton" />
+    <node id="Relaxin signaling pathway" />
+    <node id="AMPK signaling pathway" />
+    <node id="FoxO signaling pathway" />
+    <node id="Insulin resistance" />
+    <node id="Insulin signaling pathway" />
+    <node id="Longevity regulating pathway" />
+    <node id="Adherens junction" />
+    <node id="Bacterial invasion of epithelial cells" />
+    <node id="TGF-beta signaling pathway" />
+    <node id="Adrenergic signaling in cardiomyocytes" />
+    <node id="Aldosterone synthesis and secretion" />
+    <node id="Calcium signaling pathway" />
+    <node id="Cardiac muscle contraction" />
+    <node id="Cholinergic synapse" />
+    <node id="Dilated cardiomyopathy" />
+    <node id="GnRH signaling pathway" />
+    <node id="Hypertrophic cardiomyopathy" />
+    <node id="Insulin secretion" />
+    <node id="Oxytocin signaling pathway" />
+    <node id="cAMP signaling pathway" />
+    <node id="cGMP-PKG signaling pathway" />
+    <node id="African trypanosomiasis" />
+    <node id="Cell adhesion molecules" />
+    <node id="Coronavirus disease" />
+    <node id="Cytokine-cytokine receptor interaction" />
+    <node id="Malaria" />
+    <node id="Pertussis" />
+    <node id="Rheumatoid arthritis" />
+    <node id="Staphylococcus aureus infection" />
+    <node id="Alcoholism" />
+    <node id="Neutrophil extracellular trap formation" />
+    <node id="Systemic lupus erythematosus" />
+    <node id="Circadian entrainment" />
+    <node id="Cortisol synthesis and secretion" />
+    <node id="Dopaminergic synapse" />
+    <node id="Endocrine and other factor-regulated calcium reabsorption" />
+    <node id="Gastric acid secretion" />
+    <node id="Glutamatergic synapse" />
+    <node id="GnRH secretion" />
+    <node id="Growth hormone synthesis, secretion and action" />
+    <node id="Inflammatory mediator regulation of TRP channels" />
+    <node id="Long-term potentiation" />
+    <node id="Serotonergic synapse" />
+    <node id="Thyroid hormone synthesis" />
+    <node id="Allograft rejection" />
+    <node id="Antigen processing and presentation" />
+    <node id="Asthma" />
+    <node id="Autoimmune thyroid disease" />
+    <node id="Chemokine signaling pathway" />
+    <node id="Cytosolic DNA-sensing pathway" />
+    <node id="Epstein-Barr virus infection" />
+    <node id="Graft-versus-host disease" />
+    <node id="Hematopoietic cell lineage" />
+    <node id="Human T-cell leukemia virus 1 infection" />
+    <node id="Inflammatory bowel disease" />
+    <node id="Influenza A" />
+    <node id="Intestinal immune network for IgA production" />
+    <node id="Leishmaniasis" />
+    <node id="Natural killer cell mediated cytotoxicity" />
+    <node id="Phagosome" />
+    <node id="Primary immunodeficiency" />
+    <node id="Th1 and Th2 cell differentiation" />
+    <node id="Th17 cell differentiation" />
+    <node id="Tuberculosis" />
+    <node id="Type I diabetes mellitus" />
+    <node id="Viral myocarditis" />
+    <node id="Viral protein interaction with cytokine and cytokine receptor" />
+    <node id="Alzheimer disease" />
+    <node id="Parkinson disease" />
+    <node id="Pathways of neurodegeneration" />
+    <node id="Prion disease" />
+    <node id="Toxoplasmosis" />
+    <node id="Amphetamine addiction" />
+    <node id="Cocaine addiction" />
+    <node id="Amyotrophic lateral sclerosis" />
+    <node id="Huntington disease" />
+    <node id="Toll-like receptor signaling pathway" />
+    <node id="Apelin signaling pathway" />
+    <node id="Parathyroid hormone synthesis, secretion and action" />
+    <node id="Phospholipase D signaling pathway" />
+    <node id="Platelet activation" />
+    <node id="Thyroid hormone signaling pathway" />
+    <node id="Vascular smooth muscle contraction" />
+    <node id="Arrhythmogenic right ventricular cardiomyopathy" />
+    <node id="Ascorbate and aldarate metabolism" />
+    <node id="Pentose and glucuronate interconversions" />
+    <node id="Porphyrin and chlorophyll metabolism" />
+    <node id="Autophagy" />
+    <node id="Phosphatidylinositol signaling system" />
+    <node id="B cell receptor signaling pathway" />
+    <node id="C-type lectin receptor signaling pathway" />
+    <node id="Osteoclast differentiation" />
+    <node id="PD-L1 expression and PD-1 checkpoint pathway in cancer" />
+    <node id="T cell receptor signaling pathway" />
+    <node id="Yersinia infection" />
+    <node id="MicroRNAs in cancer" />
+    <node id="Biosynthesis of unsaturated fatty acids" />
+    <node id="Fatty acid elongation" />
+    <node id="Breast cancer" />
+    <node id="Chronic myeloid leukemia" />
+    <node id="Gastric cancer" />
+    <node id="Hepatocellular carcinoma" />
+    <node id="Butanoate metabolism" />
+    <node id="Synthesis and degradation of ketone bodies" />
+    <node id="Valine, leucine and isoleucine degradation" />
+    <node id="Kaposi sarcoma-associated herpesvirus infection" />
+    <node id="Lipid and atherosclerosis" />
+    <node id="Cell cycle" />
+    <node id="Cellular senescence" />
+    <node id="DNA replication" />
+    <node id="Homologous recombination" />
+    <node id="Mismatch repair" />
+    <node id="One carbon pool by folate" />
+    <node id="Human cytomegalovirus infection" />
+    <node id="TNF signaling pathway" />
+    <node id="NF-kappa B signaling pathway" />
+    <node id="Cholesterol metabolism" />
+    <node id="Complement and coagulation cascades" />
+    <node id="Fat digestion and absorption" />
+    <node id="PPAR signaling pathway" />
+    <node id="Choline metabolism in cancer" />
+    <node id="Prostate cancer" />
+    <node id="Renal cell carcinoma" />
+    <node id="Long-term depression" />
+    <node id="Colorectal cancer" />
+    <node id="Hepatitis B" />
+    <node id="Pancreatic cancer" />
+    <node id="Small cell lung cancer" />
+    <node id="Collecting duct acid secretion" />
+    <node id="Vibrio cholerae infection" />
+    <node id="Endometrial cancer" />
+    <node id="NOD-like receptor signaling pathway" />
+    <node id="Fanconi anemia pathway" />
+    <node id="Nucleotide excision repair" />
+    <node id="Diabetic cardiomyopathy" />
+    <node id="Non-alcoholic fatty liver disease" />
+    <node id="Oxidative phosphorylation" />
+    <node id="Drug metabolism" />
+    <node id="Metabolism of xenobiotics by cytochrome P450" />
+    <node id="Retinol metabolism" />
+    <node id="Steroid hormone biosynthesis" />
+    <node id="Hippo signaling pathway" />
+    <node id="Pancreatic secretion" />
+    <node id="Hepatitis C" />
+    <node id="Human immunodeficiency virus 1 infection" />
+    <node id="Measles" />
+    <node id="Fatty acid degradation" />
+    <node id="beta-Alanine metabolism" />
+    <node id="Fc gamma R-mediated phagocytosis" />
+    <node id="Gap junction" />
+    <node id="Melanoma" />
+    <node id="Rap1 signaling pathway" />
+    <node id="Ras signaling pathway" />
+    <node id="GABAergic synapse" />
+    <node id="Morphine addiction" />
+    <node id="Signaling pathways regulating pluripotency of stem cells" />
+    <node id="Glioma" />
+    <node id="Glucagon signaling pathway" />
+    <node id="Retrograde endocannabinoid signaling" />
+    <node id="Glyoxylate and dicarboxylate metabolism" />
+    <node id="Pyruvate metabolism" />
+    <node id="Hedgehog signaling pathway" />
+    <node id="Neurotrophin signaling pathway" />
+    <node id="Prolactin signaling pathway" />
+    <node id="Type II diabetes mellitus" />
+    <node id="Histidine metabolism" />
+    <node id="Thermogenesis" />
+    <node id="IL-17 signaling pathway" />
+    <node id="Inositol phosphate metabolism" />
+    <node id="Legionellosis" />
+    <node id="Pathogenic Escherichia coli infection" />
+    <node id="Linoleic acid metabolism" />
+    <node id="alpha-Linolenic acid metabolism" />
+    <node id="Peroxisome" />
+    <node id="N-Glycan biosynthesis" />
+    <node id="Various types of N-glycan biosynthesis" />
+    <node id="RIG-I-like receptor signaling pathway" />
+    <node id="Oocyte meiosis" />
+    <node id="Progesterone-mediated oocyte maturation" />
+    <node id="Ribosome" />
+    <node id="Phenylalanine metabolism" />
+    <node id="Tyrosine metabolism" />
+    <node id="Spinocerebellar ataxia" />
+    <node id="Propanoate metabolism" />
+    <node id="RNA degradation" />
+    <node id="RNA transport" />
+    <node id="RNA polymerase" />
+    <node id="Ribosome biogenesis in eukaryotes" />
+    <node id="mRNA surveillance pathway" />
+    <node id="Renin secretion" />
+    <node id="Salmonella infection" />
+    <node id="Viral carcinogenesis" />
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Amoebiasis">
+      <data key="d0">0.710676164584517</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Chagas disease">
+      <data key="d0">0.7151222119737014</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="ECM-receptor interaction">
+      <data key="d0">0.7729938270570332</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Focal adhesion">
+      <data key="d0">0.7917891095594568</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Human papillomavirus infection">
+      <data key="d0">0.7091985683592489</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Leukocyte transendothelial migration">
+      <data key="d0">0.7066460001822998</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="MAPK signaling pathway">
+      <data key="d0">0.7294837843076594</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="PI3K-Akt signaling pathway">
+      <data key="d0">0.8245148821361498</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Pathways in cancer">
+      <data key="d0">0.7710151174433588</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Protein digestion and absorption">
+      <data key="d0">0.7269258393703736</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Proteoglycans in cancer">
+      <data key="d0">0.729698292893758</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.7227699244208202</data>
+    </edge>
+    <edge source="AGE-RAGE signaling pathway in diabetic complications" target="Relaxin signaling pathway">
+      <data key="d0">0.804094756583828</data>
+    </edge>
+    <edge source="Amoebiasis" target="ECM-receptor interaction">
+      <data key="d0">0.7140196560125807</data>
+    </edge>
+    <edge source="Amoebiasis" target="Focal adhesion">
+      <data key="d0">0.720972707143711</data>
+    </edge>
+    <edge source="Amoebiasis" target="Leukocyte transendothelial migration">
+      <data key="d0">0.7658150393955959</data>
+    </edge>
+    <edge source="Amoebiasis" target="PI3K-Akt signaling pathway">
+      <data key="d0">0.7449865349863238</data>
+    </edge>
+    <edge source="Amoebiasis" target="Pathways in cancer">
+      <data key="d0">0.7280235334966704</data>
+    </edge>
+    <edge source="Amoebiasis" target="Toxoplasmosis">
+      <data key="d0">0.7094637827611433</data>
+    </edge>
+    <edge source="Chagas disease" target="Chemokine signaling pathway">
+      <data key="d0">0.7577195508164655</data>
+    </edge>
+    <edge source="Chagas disease" target="Human cytomegalovirus infection">
+      <data key="d0">0.7290738359490072</data>
+    </edge>
+    <edge source="Chagas disease" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7606079539865351</data>
+    </edge>
+    <edge source="Chagas disease" target="Leishmaniasis">
+      <data key="d0">0.7336034295503003</data>
+    </edge>
+    <edge source="Chagas disease" target="Leukocyte transendothelial migration">
+      <data key="d0">0.7029950700809579</data>
+    </edge>
+    <edge source="Chagas disease" target="Lipid and atherosclerosis">
+      <data key="d0">0.7477902165498639</data>
+    </edge>
+    <edge source="Chagas disease" target="Osteoclast differentiation">
+      <data key="d0">0.7419481257775495</data>
+    </edge>
+    <edge source="Chagas disease" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7410601985197128</data>
+    </edge>
+    <edge source="Chagas disease" target="Pertussis">
+      <data key="d0">0.7332071249633811</data>
+    </edge>
+    <edge source="Chagas disease" target="Rheumatoid arthritis">
+      <data key="d0">0.7469909017449813</data>
+    </edge>
+    <edge source="Chagas disease" target="TNF signaling pathway">
+      <data key="d0">0.7384719572185775</data>
+    </edge>
+    <edge source="Chagas disease" target="Th17 cell differentiation">
+      <data key="d0">0.7417870017150299</data>
+    </edge>
+    <edge source="Chagas disease" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.746194175255315</data>
+    </edge>
+    <edge source="Chagas disease" target="Toxoplasmosis">
+      <data key="d0">0.746872483928365</data>
+    </edge>
+    <edge source="Chagas disease" target="Tuberculosis">
+      <data key="d0">0.7209149505169369</data>
+    </edge>
+    <edge source="Chagas disease" target="Yersinia infection">
+      <data key="d0">0.7984313322630031</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Focal adhesion">
+      <data key="d0">0.958508087998943</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Hippo signaling pathway">
+      <data key="d0">0.7398441439454924</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Human papillomavirus infection">
+      <data key="d0">0.843691746075693</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="PI3K-Akt signaling pathway">
+      <data key="d0">0.9141254040893495</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Pathways in cancer">
+      <data key="d0">0.868870647556802</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Phospholipase D signaling pathway">
+      <data key="d0">0.7580284296767129</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Prostate cancer">
+      <data key="d0">0.7053548265273131</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Protein digestion and absorption">
+      <data key="d0">0.8331437831462909</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Proteoglycans in cancer">
+      <data key="d0">0.7875408878398168</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.8316668319300218</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Relaxin signaling pathway">
+      <data key="d0">0.7577080816539421</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="Small cell lung cancer">
+      <data key="d0">0.7875325912182873</data>
+    </edge>
+    <edge source="ECM-receptor interaction" target="TGF-beta signaling pathway">
+      <data key="d0">0.7215791497306604</data>
+    </edge>
+    <edge source="Focal adhesion" target="Arrhythmogenic right ventricular cardiomyopathy">
+      <data key="d0">0.7219439500479616</data>
+    </edge>
+    <edge source="Focal adhesion" target="Gap junction">
+      <data key="d0">0.7333471152045505</data>
+    </edge>
+    <edge source="Focal adhesion" target="Hippo signaling pathway">
+      <data key="d0">0.7544237541966037</data>
+    </edge>
+    <edge source="Focal adhesion" target="Human papillomavirus infection">
+      <data key="d0">0.8299105773583373</data>
+    </edge>
+    <edge source="Focal adhesion" target="MAPK signaling pathway">
+      <data key="d0">0.7244811368284084</data>
+    </edge>
+    <edge source="Focal adhesion" target="Melanoma">
+      <data key="d0">0.747903085360673</data>
+    </edge>
+    <edge source="Focal adhesion" target="PI3K-Akt signaling pathway">
+      <data key="d0">0.9490924210676279</data>
+    </edge>
+    <edge source="Focal adhesion" target="Pathways in cancer">
+      <data key="d0">0.8825648102657446</data>
+    </edge>
+    <edge source="Focal adhesion" target="Phospholipase D signaling pathway">
+      <data key="d0">0.8076647157118086</data>
+    </edge>
+    <edge source="Focal adhesion" target="Prostate cancer">
+      <data key="d0">0.7889709012269575</data>
+    </edge>
+    <edge source="Focal adhesion" target="Protein digestion and absorption">
+      <data key="d0">0.8043393097989182</data>
+    </edge>
+    <edge source="Focal adhesion" target="Proteoglycans in cancer">
+      <data key="d0">0.8199628446507737</data>
+    </edge>
+    <edge source="Focal adhesion" target="Rap1 signaling pathway">
+      <data key="d0">0.7543140498768969</data>
+    </edge>
+    <edge source="Focal adhesion" target="Ras signaling pathway">
+      <data key="d0">0.7453344332895739</data>
+    </edge>
+    <edge source="Focal adhesion" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.8945789558817477</data>
+    </edge>
+    <edge source="Focal adhesion" target="Relaxin signaling pathway">
+      <data key="d0">0.8094898881220243</data>
+    </edge>
+    <edge source="Focal adhesion" target="Small cell lung cancer">
+      <data key="d0">0.7618459935567587</data>
+    </edge>
+    <edge source="Focal adhesion" target="TGF-beta signaling pathway">
+      <data key="d0">0.7389159351810611</data>
+    </edge>
+    <edge source="Focal adhesion" target="Vascular smooth muscle contraction">
+      <data key="d0">0.7075659603735283</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Bacterial invasion of epithelial cells">
+      <data key="d0">0.7326991044669036</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Breast cancer">
+      <data key="d0">0.7015492730494943</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Hippo signaling pathway">
+      <data key="d0">0.7312309221468212</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="PI3K-Akt signaling pathway">
+      <data key="d0">0.7764258272814147</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Pathways in cancer">
+      <data key="d0">0.8663965110262523</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Prostate cancer">
+      <data key="d0">0.7246462874680458</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Protein digestion and absorption">
+      <data key="d0">0.7324405204063836</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Proteoglycans in cancer">
+      <data key="d0">0.7665068935539018</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.7290900363038687</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Relaxin signaling pathway">
+      <data key="d0">0.7321269233037889</data>
+    </edge>
+    <edge source="Human papillomavirus infection" target="Small cell lung cancer">
+      <data key="d0">0.7711910039919485</data>
+    </edge>
+    <edge source="Leukocyte transendothelial migration" target="Cell adhesion molecules">
+      <data key="d0">0.8070036671902748</data>
+    </edge>
+    <edge source="Leukocyte transendothelial migration" target="Fc gamma R-mediated phagocytosis">
+      <data key="d0">0.7088709337979111</data>
+    </edge>
+    <edge source="Leukocyte transendothelial migration" target="Malaria">
+      <data key="d0">0.7854407413561153</data>
+    </edge>
+    <edge source="Leukocyte transendothelial migration" target="Pathogenic Escherichia coli infection">
+      <data key="d0">0.7041600580787387</data>
+    </edge>
+    <edge source="Leukocyte transendothelial migration" target="Phagosome">
+      <data key="d0">0.7415302146720789</data>
+    </edge>
+    <edge source="Leukocyte transendothelial migration" target="Toxoplasmosis">
+      <data key="d0">0.7528276638762947</data>
+    </edge>
+    <edge source="MAPK signaling pathway" target="Dilated cardiomyopathy">
+      <data key="d0">0.7297270259693143</data>
+    </edge>
+    <edge source="MAPK signaling pathway" target="PI3K-Akt signaling pathway">
+      <data key="d0">0.8064493838120612</data>
+    </edge>
+    <edge source="MAPK signaling pathway" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.7005041307226246</data>
+    </edge>
+    <edge source="MAPK signaling pathway" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.7099386528336854</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Gap junction">
+      <data key="d0">0.7109921641755464</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Hippo signaling pathway">
+      <data key="d0">0.7289391479978431</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Melanoma">
+      <data key="d0">0.7737840236042708</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Pathways in cancer">
+      <data key="d0">0.8712253885476275</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Phospholipase D signaling pathway">
+      <data key="d0">0.8000628131112304</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Prostate cancer">
+      <data key="d0">0.7920143428579284</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Protein digestion and absorption">
+      <data key="d0">0.7672956240815703</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Proteoglycans in cancer">
+      <data key="d0">0.8112018963631746</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Rap1 signaling pathway">
+      <data key="d0">0.7493499603121959</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Ras signaling pathway">
+      <data key="d0">0.7667640828770186</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.8813615324772573</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Relaxin signaling pathway">
+      <data key="d0">0.8111312783990375</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="Small cell lung cancer">
+      <data key="d0">0.7117592811617541</data>
+    </edge>
+    <edge source="PI3K-Akt signaling pathway" target="TGF-beta signaling pathway">
+      <data key="d0">0.7295196447565524</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Breast cancer">
+      <data key="d0">0.7705837999436913</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Gap junction">
+      <data key="d0">0.7164188563795669</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Gastric cancer">
+      <data key="d0">0.7178127671391669</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Hippo signaling pathway">
+      <data key="d0">0.7962693915369681</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Melanoma">
+      <data key="d0">0.7183574168002385</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Phospholipase D signaling pathway">
+      <data key="d0">0.7437287246431812</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Prostate cancer">
+      <data key="d0">0.771677557912936</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Protein digestion and absorption">
+      <data key="d0">0.7481164232466905</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Proteoglycans in cancer">
+      <data key="d0">0.7874884041922336</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Rap1 signaling pathway">
+      <data key="d0">0.7021287869166994</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.8258312172282458</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Relaxin signaling pathway">
+      <data key="d0">0.745420870442956</data>
+    </edge>
+    <edge source="Pathways in cancer" target="Small cell lung cancer">
+      <data key="d0">0.7833992810451474</data>
+    </edge>
+    <edge source="Pathways in cancer" target="TGF-beta signaling pathway">
+      <data key="d0">0.7032962006323717</data>
+    </edge>
+    <edge source="Protein digestion and absorption" target="Proteoglycans in cancer">
+      <data key="d0">0.76496204077552</data>
+    </edge>
+    <edge source="Protein digestion and absorption" target="Relaxin signaling pathway">
+      <data key="d0">0.7634357758615812</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Adherens junction">
+      <data key="d0">0.7375722185967796</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Arrhythmogenic right ventricular cardiomyopathy">
+      <data key="d0">0.7099687501580894</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Gap junction">
+      <data key="d0">0.7961498788465424</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Hippo signaling pathway">
+      <data key="d0">0.7905452028476989</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Melanoma">
+      <data key="d0">0.7038797710476542</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Platelet activation">
+      <data key="d0">0.7630593721791487</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Prostate cancer">
+      <data key="d0">0.7867506395440658</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Regulation of actin cytoskeleton">
+      <data key="d0">0.8319898645914551</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Relaxin signaling pathway">
+      <data key="d0">0.7032275023951348</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Signaling pathways regulating pluripotency of stem cells">
+      <data key="d0">0.7276233237372762</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="TGF-beta signaling pathway">
+      <data key="d0">0.8514238205960135</data>
+    </edge>
+    <edge source="Proteoglycans in cancer" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7230931000537797</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Adherens junction">
+      <data key="d0">0.7511645526867091</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Arrhythmogenic right ventricular cardiomyopathy">
+      <data key="d0">0.7701045913737331</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Chronic myeloid leukemia">
+      <data key="d0">0.7092733478807777</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Gap junction">
+      <data key="d0">0.7345404177396915</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Hippo signaling pathway">
+      <data key="d0">0.7646011131174756</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Melanoma">
+      <data key="d0">0.7833391614634869</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Phospholipase D signaling pathway">
+      <data key="d0">0.7359270677558998</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Prostate cancer">
+      <data key="d0">0.8551087143257939</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Ras signaling pathway">
+      <data key="d0">0.7009240003056169</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="Small cell lung cancer">
+      <data key="d0">0.7025234806243826</data>
+    </edge>
+    <edge source="Regulation of actin cytoskeleton" target="TGF-beta signaling pathway">
+      <data key="d0">0.7845748343663989</data>
+    </edge>
+    <edge source="Relaxin signaling pathway" target="Phospholipase D signaling pathway">
+      <data key="d0">0.7426354962795629</data>
+    </edge>
+    <edge source="Relaxin signaling pathway" target="Rap1 signaling pathway">
+      <data key="d0">0.7031572606596264</data>
+    </edge>
+    <edge source="Relaxin signaling pathway" target="Ras signaling pathway">
+      <data key="d0">0.7260289032026837</data>
+    </edge>
+    <edge source="AMPK signaling pathway" target="FoxO signaling pathway">
+      <data key="d0">0.743228033034928</data>
+    </edge>
+    <edge source="AMPK signaling pathway" target="Insulin resistance">
+      <data key="d0">0.7291423855090838</data>
+    </edge>
+    <edge source="AMPK signaling pathway" target="Insulin signaling pathway">
+      <data key="d0">0.7648504959067315</data>
+    </edge>
+    <edge source="AMPK signaling pathway" target="Longevity regulating pathway">
+      <data key="d0">0.7616738541870492</data>
+    </edge>
+    <edge source="FoxO signaling pathway" target="Colorectal cancer">
+      <data key="d0">0.7552709004477144</data>
+    </edge>
+    <edge source="FoxO signaling pathway" target="Pancreatic cancer">
+      <data key="d0">0.7211414629470144</data>
+    </edge>
+    <edge source="Insulin resistance" target="Insulin signaling pathway">
+      <data key="d0">0.7062835860721872</data>
+    </edge>
+    <edge source="Insulin resistance" target="Longevity regulating pathway">
+      <data key="d0">0.711225859470369</data>
+    </edge>
+    <edge source="Insulin signaling pathway" target="Autophagy">
+      <data key="d0">0.7254845439472957</data>
+    </edge>
+    <edge source="Insulin signaling pathway" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7212459287038046</data>
+    </edge>
+    <edge source="Insulin signaling pathway" target="Longevity regulating pathway">
+      <data key="d0">0.7539935249663493</data>
+    </edge>
+    <edge source="Insulin signaling pathway" target="Pancreatic secretion">
+      <data key="d0">0.7403541155637048</data>
+    </edge>
+    <edge source="Insulin signaling pathway" target="Type II diabetes mellitus">
+      <data key="d0">0.73533435747572</data>
+    </edge>
+    <edge source="Longevity regulating pathway" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7286365455946384</data>
+    </edge>
+    <edge source="Adherens junction" target="Bacterial invasion of epithelial cells">
+      <data key="d0">0.7121059990594365</data>
+    </edge>
+    <edge source="Adherens junction" target="TGF-beta signaling pathway">
+      <data key="d0">0.7266039924714175</data>
+    </edge>
+    <edge source="Bacterial invasion of epithelial cells" target="MicroRNAs in cancer">
+      <data key="d0">0.728653333170133</data>
+    </edge>
+    <edge source="TGF-beta signaling pathway" target="Hippo signaling pathway">
+      <data key="d0">0.7588086039275669</data>
+    </edge>
+    <edge source="TGF-beta signaling pathway" target="Prostate cancer">
+      <data key="d0">0.7535332624937999</data>
+    </edge>
+    <edge source="TGF-beta signaling pathway" target="Signaling pathways regulating pluripotency of stem cells">
+      <data key="d0">0.7304186254201884</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Aldosterone synthesis and secretion">
+      <data key="d0">0.7473030302447952</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Calcium signaling pathway">
+      <data key="d0">0.7239180150187964</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Cardiac muscle contraction">
+      <data key="d0">0.7584983741084569</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Cholinergic synapse">
+      <data key="d0">0.7513420584365202</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Dilated cardiomyopathy">
+      <data key="d0">0.8062650526349047</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="GnRH signaling pathway">
+      <data key="d0">0.7164139185963642</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Hypertrophic cardiomyopathy">
+      <data key="d0">0.7319252971969196</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Insulin secretion">
+      <data key="d0">0.761137448813843</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="Oxytocin signaling pathway">
+      <data key="d0">0.7182889056276187</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="cAMP signaling pathway">
+      <data key="d0">0.7104778263062217</data>
+    </edge>
+    <edge source="Adrenergic signaling in cardiomyocytes" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.7546175330105681</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Calcium signaling pathway">
+      <data key="d0">0.7023985147439371</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Cholinergic synapse">
+      <data key="d0">0.8302271227642957</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Circadian entrainment">
+      <data key="d0">0.7996145014461495</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Cortisol synthesis and secretion">
+      <data key="d0">0.8863194764760665</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Dopaminergic synapse">
+      <data key="d0">0.7404159917773593</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Endocrine and other factor-regulated calcium reabsorption">
+      <data key="d0">0.7085227135089194</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Gastric acid secretion">
+      <data key="d0">0.7104035332516397</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Glutamatergic synapse">
+      <data key="d0">0.7473269861691485</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="GnRH secretion">
+      <data key="d0">0.7886230769846758</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="GnRH signaling pathway">
+      <data key="d0">0.8504602760049685</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7488246510838392</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Inflammatory mediator regulation of TRP channels">
+      <data key="d0">0.705620043246103</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Insulin secretion">
+      <data key="d0">0.8045046847989356</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Long-term potentiation">
+      <data key="d0">0.7024288408426175</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Oxytocin signaling pathway">
+      <data key="d0">0.7541743733466703</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Serotonergic synapse">
+      <data key="d0">0.7371635818760446</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="Thyroid hormone synthesis">
+      <data key="d0">0.7714902251390334</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="cAMP signaling pathway">
+      <data key="d0">0.703318874305627</data>
+    </edge>
+    <edge source="Aldosterone synthesis and secretion" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.7635569361580122</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Apelin signaling pathway">
+      <data key="d0">0.7407271426022365</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Cholinergic synapse">
+      <data key="d0">0.7528152712060809</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Endocrine and other factor-regulated calcium reabsorption">
+      <data key="d0">0.7031392927541698</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Gastric acid secretion">
+      <data key="d0">0.7165966730966461</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Oxytocin signaling pathway">
+      <data key="d0">0.7628380990367145</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Serotonergic synapse">
+      <data key="d0">0.7079087722324305</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="Vascular smooth muscle contraction">
+      <data key="d0">0.7613895254076773</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="cAMP signaling pathway">
+      <data key="d0">0.7178189781258554</data>
+    </edge>
+    <edge source="Calcium signaling pathway" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.8341173991082488</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Apelin signaling pathway">
+      <data key="d0">0.7599378417871993</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Circadian entrainment">
+      <data key="d0">0.9020978474555557</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Cortisol synthesis and secretion">
+      <data key="d0">0.7595664443127044</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Dopaminergic synapse">
+      <data key="d0">0.8501832346033188</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Gastric acid secretion">
+      <data key="d0">0.7010892229064117</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Glutamatergic synapse">
+      <data key="d0">0.8754397677626966</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="GnRH secretion">
+      <data key="d0">0.7654463488354737</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="GnRH signaling pathway">
+      <data key="d0">0.8219572876034481</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7784726328032119</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Insulin secretion">
+      <data key="d0">0.7973214613038961</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Long-term depression">
+      <data key="d0">0.7685032255358908</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Long-term potentiation">
+      <data key="d0">0.7873852753243127</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Oxytocin signaling pathway">
+      <data key="d0">0.8284413561326507</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="Serotonergic synapse">
+      <data key="d0">0.831902632826133</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="cAMP signaling pathway">
+      <data key="d0">0.7636867089211773</data>
+    </edge>
+    <edge source="Cholinergic synapse" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.7729017452862227</data>
+    </edge>
+    <edge source="Dilated cardiomyopathy" target="Arrhythmogenic right ventricular cardiomyopathy">
+      <data key="d0">0.88150067396817</data>
+    </edge>
+    <edge source="Dilated cardiomyopathy" target="Hypertrophic cardiomyopathy">
+      <data key="d0">0.9515982117086604</data>
+    </edge>
+    <edge source="Dilated cardiomyopathy" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.7166957415427764</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Circadian entrainment">
+      <data key="d0">0.7881778468681343</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Cortisol synthesis and secretion">
+      <data key="d0">0.7362777314843523</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Dopaminergic synapse">
+      <data key="d0">0.735304036441018</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Gastric acid secretion">
+      <data key="d0">0.7406849946928987</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Glutamatergic synapse">
+      <data key="d0">0.7391388641552166</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="GnRH secretion">
+      <data key="d0">0.7553119014054797</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7786704608283651</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Inflammatory mediator regulation of TRP channels">
+      <data key="d0">0.7472570696939915</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Insulin secretion">
+      <data key="d0">0.7843002628205828</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Long-term potentiation">
+      <data key="d0">0.7702487566748716</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="Oxytocin signaling pathway">
+      <data key="d0">0.7892481117430225</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="cAMP signaling pathway">
+      <data key="d0">0.7192481490386554</data>
+    </edge>
+    <edge source="GnRH signaling pathway" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.703176563580033</data>
+    </edge>
+    <edge source="Hypertrophic cardiomyopathy" target="Arrhythmogenic right ventricular cardiomyopathy">
+      <data key="d0">0.8913380829497797</data>
+    </edge>
+    <edge source="Insulin secretion" target="Circadian entrainment">
+      <data key="d0">0.759899006424829</data>
+    </edge>
+    <edge source="Insulin secretion" target="Cortisol synthesis and secretion">
+      <data key="d0">0.7428764461967794</data>
+    </edge>
+    <edge source="Insulin secretion" target="Dopaminergic synapse">
+      <data key="d0">0.7708408404306417</data>
+    </edge>
+    <edge source="Insulin secretion" target="Endocrine and other factor-regulated calcium reabsorption">
+      <data key="d0">0.7236063892383119</data>
+    </edge>
+    <edge source="Insulin secretion" target="Glutamatergic synapse">
+      <data key="d0">0.798196273190078</data>
+    </edge>
+    <edge source="Insulin secretion" target="GnRH secretion">
+      <data key="d0">0.727365234574471</data>
+    </edge>
+    <edge source="Insulin secretion" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7089233841811993</data>
+    </edge>
+    <edge source="Insulin secretion" target="Oxytocin signaling pathway">
+      <data key="d0">0.7153702705017607</data>
+    </edge>
+    <edge source="Insulin secretion" target="Serotonergic synapse">
+      <data key="d0">0.7359385276316429</data>
+    </edge>
+    <edge source="Insulin secretion" target="Thyroid hormone synthesis">
+      <data key="d0">0.7017576960679284</data>
+    </edge>
+    <edge source="Insulin secretion" target="cAMP signaling pathway">
+      <data key="d0">0.7349694835304921</data>
+    </edge>
+    <edge source="Insulin secretion" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.7233926044938904</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Apelin signaling pathway">
+      <data key="d0">0.7833214903348465</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Circadian entrainment">
+      <data key="d0">0.7698040284237638</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Dopaminergic synapse">
+      <data key="d0">0.7362401193940149</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Endocrine and other factor-regulated calcium reabsorption">
+      <data key="d0">0.7340345873235161</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Gastric acid secretion">
+      <data key="d0">0.746391846812698</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Glutamatergic synapse">
+      <data key="d0">0.7906594470911894</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="GnRH secretion">
+      <data key="d0">0.7283377467358163</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Inflammatory mediator regulation of TRP channels">
+      <data key="d0">0.7395708823490983</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Long-term depression">
+      <data key="d0">0.8216920463220115</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Long-term potentiation">
+      <data key="d0">0.7559633129187683</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Platelet activation">
+      <data key="d0">0.7032489200028057</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Serotonergic synapse">
+      <data key="d0">0.7814941521394189</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7162299617138791</data>
+    </edge>
+    <edge source="Oxytocin signaling pathway" target="cGMP-PKG signaling pathway">
+      <data key="d0">0.8523910715122083</data>
+    </edge>
+    <edge source="cAMP signaling pathway" target="Circadian entrainment">
+      <data key="d0">0.742009762684402</data>
+    </edge>
+    <edge source="cAMP signaling pathway" target="Dopaminergic synapse">
+      <data key="d0">0.7107489750329326</data>
+    </edge>
+    <edge source="cAMP signaling pathway" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7322783810370911</data>
+    </edge>
+    <edge source="cAMP signaling pathway" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.7164903211289658</data>
+    </edge>
+    <edge source="cAMP signaling pathway" target="Vascular smooth muscle contraction">
+      <data key="d0">0.700060517457925</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Apelin signaling pathway">
+      <data key="d0">0.8250826900968701</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Arrhythmogenic right ventricular cardiomyopathy">
+      <data key="d0">0.7345061689977238</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Endocrine and other factor-regulated calcium reabsorption">
+      <data key="d0">0.8228355094929489</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7392402034102777</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Long-term depression">
+      <data key="d0">0.7353906012398107</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Pancreatic secretion">
+      <data key="d0">0.7672979020904006</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.753728841114196</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Platelet activation">
+      <data key="d0">0.7076338339214567</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Serotonergic synapse">
+      <data key="d0">0.7335848500798596</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7514233499839056</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Thyroid hormone synthesis">
+      <data key="d0">0.722011315815788</data>
+    </edge>
+    <edge source="cGMP-PKG signaling pathway" target="Vascular smooth muscle contraction">
+      <data key="d0">0.7453795557146361</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Cell adhesion molecules">
+      <data key="d0">0.7110527391808951</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Coronavirus disease">
+      <data key="d0">0.7294104767572327</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Cytokine-cytokine receptor interaction">
+      <data key="d0">0.770404442774859</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Malaria">
+      <data key="d0">0.7464717921898288</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Pertussis">
+      <data key="d0">0.7384376652349423</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Rheumatoid arthritis">
+      <data key="d0">0.7194849869932701</data>
+    </edge>
+    <edge source="African trypanosomiasis" target="Staphylococcus aureus infection">
+      <data key="d0">0.7034451320442533</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Allograft rejection">
+      <data key="d0">0.7747685272948579</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Antigen processing and presentation">
+      <data key="d0">0.7028498712417023</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Asthma">
+      <data key="d0">0.7552773609356402</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Autoimmune thyroid disease">
+      <data key="d0">0.7465876339479597</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Chemokine signaling pathway">
+      <data key="d0">0.7501935324567457</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Cytokine-cytokine receptor interaction">
+      <data key="d0">0.7982960165483451</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Graft-versus-host disease">
+      <data key="d0">0.7578672332647846</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Hematopoietic cell lineage">
+      <data key="d0">0.8442982390167111</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7499707355269204</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Inflammatory bowel disease">
+      <data key="d0">0.7894936013457667</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Intestinal immune network for IgA production">
+      <data key="d0">0.8274944632208148</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Leishmaniasis">
+      <data key="d0">0.766930895118537</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Malaria">
+      <data key="d0">0.8057440936395706</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7195597423349268</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Phagosome">
+      <data key="d0">0.8103464606319934</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Rheumatoid arthritis">
+      <data key="d0">0.8180588382521721</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Staphylococcus aureus infection">
+      <data key="d0">0.7468594592887524</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8106059421147457</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Th17 cell differentiation">
+      <data key="d0">0.7542393116634575</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Toxoplasmosis">
+      <data key="d0">0.7384985817180435</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Tuberculosis">
+      <data key="d0">0.7811088385197309</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Type I diabetes mellitus">
+      <data key="d0">0.7139697083771385</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Viral myocarditis">
+      <data key="d0">0.8592490672873982</data>
+    </edge>
+    <edge source="Cell adhesion molecules" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7061383989570477</data>
+    </edge>
+    <edge source="Coronavirus disease" target="Complement and coagulation cascades">
+      <data key="d0">0.7400448499837236</data>
+    </edge>
+    <edge source="Coronavirus disease" target="Cytokine-cytokine receptor interaction">
+      <data key="d0">0.7181360009478176</data>
+    </edge>
+    <edge source="Coronavirus disease" target="Influenza A">
+      <data key="d0">0.7470255650656382</data>
+    </edge>
+    <edge source="Coronavirus disease" target="Lipid and atherosclerosis">
+      <data key="d0">0.7126065116035983</data>
+    </edge>
+    <edge source="Coronavirus disease" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.7609346923709699</data>
+    </edge>
+    <edge source="Coronavirus disease" target="Pertussis">
+      <data key="d0">0.8332844489584731</data>
+    </edge>
+    <edge source="Coronavirus disease" target="TNF signaling pathway">
+      <data key="d0">0.7813758139874889</data>
+    </edge>
+    <edge source="Coronavirus disease" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7762891933150239</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Allograft rejection">
+      <data key="d0">0.7643646782032626</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Antigen processing and presentation">
+      <data key="d0">0.7368752005943048</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Autoimmune thyroid disease">
+      <data key="d0">0.7395475102897969</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Chemokine signaling pathway">
+      <data key="d0">0.8558752648387011</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Cytosolic DNA-sensing pathway">
+      <data key="d0">0.7287410123675048</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Epstein-Barr virus infection">
+      <data key="d0">0.7288250963952115</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Graft-versus-host disease">
+      <data key="d0">0.7598197935494156</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Hematopoietic cell lineage">
+      <data key="d0">0.8437169376938403</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7343676746108093</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Inflammatory bowel disease">
+      <data key="d0">0.7583282413302844</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Influenza A">
+      <data key="d0">0.7281321367921475</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Intestinal immune network for IgA production">
+      <data key="d0">0.7749386582660407</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Lipid and atherosclerosis">
+      <data key="d0">0.7249346376054147</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Malaria">
+      <data key="d0">0.7408309488688224</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="NF-kappa B signaling pathway">
+      <data key="d0">0.8728761255411502</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.8046798533696589</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Pertussis">
+      <data key="d0">0.773316442902715</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Phagosome">
+      <data key="d0">0.7250463639053585</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Primary immunodeficiency">
+      <data key="d0">0.8054915145069048</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Rheumatoid arthritis">
+      <data key="d0">0.8699067755329286</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Staphylococcus aureus infection">
+      <data key="d0">0.8098919327814429</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="TNF signaling pathway">
+      <data key="d0">0.8138986025328601</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7556100282335075</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Th17 cell differentiation">
+      <data key="d0">0.7311689604037847</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7446642520605774</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Tuberculosis">
+      <data key="d0">0.7353030518319801</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Type I diabetes mellitus">
+      <data key="d0">0.7004374210595524</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Viral myocarditis">
+      <data key="d0">0.7542600274466309</data>
+    </edge>
+    <edge source="Cytokine-cytokine receptor interaction" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.9530863319188914</data>
+    </edge>
+    <edge source="Malaria" target="Hematopoietic cell lineage">
+      <data key="d0">0.7225395892444968</data>
+    </edge>
+    <edge source="Malaria" target="Osteoclast differentiation">
+      <data key="d0">0.7052620069397926</data>
+    </edge>
+    <edge source="Malaria" target="Pertussis">
+      <data key="d0">0.7033547833413282</data>
+    </edge>
+    <edge source="Malaria" target="Phagosome">
+      <data key="d0">0.7752454845441564</data>
+    </edge>
+    <edge source="Malaria" target="Rheumatoid arthritis">
+      <data key="d0">0.7600592751253838</data>
+    </edge>
+    <edge source="Malaria" target="Staphylococcus aureus infection">
+      <data key="d0">0.7380035114783929</data>
+    </edge>
+    <edge source="Pertussis" target="Complement and coagulation cascades">
+      <data key="d0">0.7497604375736916</data>
+    </edge>
+    <edge source="Pertussis" target="Influenza A">
+      <data key="d0">0.7058943811593735</data>
+    </edge>
+    <edge source="Pertussis" target="Lipid and atherosclerosis">
+      <data key="d0">0.7913381591031703</data>
+    </edge>
+    <edge source="Pertussis" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7278593752662467</data>
+    </edge>
+    <edge source="Pertussis" target="Rheumatoid arthritis">
+      <data key="d0">0.746375683485828</data>
+    </edge>
+    <edge source="Pertussis" target="Staphylococcus aureus infection">
+      <data key="d0">0.7858196384131121</data>
+    </edge>
+    <edge source="Pertussis" target="TNF signaling pathway">
+      <data key="d0">0.8112965233066027</data>
+    </edge>
+    <edge source="Pertussis" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7603491256355054</data>
+    </edge>
+    <edge source="Pertussis" target="Tuberculosis">
+      <data key="d0">0.7321674811119252</data>
+    </edge>
+    <edge source="Pertussis" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7167114367593418</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Allograft rejection">
+      <data key="d0">0.837317931404092</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Antigen processing and presentation">
+      <data key="d0">0.7971424554439328</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Asthma">
+      <data key="d0">0.8231587608122202</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Autoimmune thyroid disease">
+      <data key="d0">0.814353226891784</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Chemokine signaling pathway">
+      <data key="d0">0.8192596602522308</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Graft-versus-host disease">
+      <data key="d0">0.8506387825428244</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Hematopoietic cell lineage">
+      <data key="d0">0.8798968848500439</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7431610812222218</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Inflammatory bowel disease">
+      <data key="d0">0.8457861025690101</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Influenza A">
+      <data key="d0">0.7541737680564451</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Intestinal immune network for IgA production">
+      <data key="d0">0.8654210472009419</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Leishmaniasis">
+      <data key="d0">0.8465406703207693</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Lipid and atherosclerosis">
+      <data key="d0">0.7085037681731283</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7527065911294104</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7886061023376745</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Osteoclast differentiation">
+      <data key="d0">0.8031741903871923</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Phagosome">
+      <data key="d0">0.8548183340194963</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Primary immunodeficiency">
+      <data key="d0">0.7018820724006966</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Staphylococcus aureus infection">
+      <data key="d0">0.8212942083343183</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="TNF signaling pathway">
+      <data key="d0">0.7562741318024097</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7878541318589394</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Th17 cell differentiation">
+      <data key="d0">0.7693072026876179</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7998705335072123</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Tuberculosis">
+      <data key="d0">0.8771507509653055</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Type I diabetes mellitus">
+      <data key="d0">0.8077722289064221</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Viral myocarditis">
+      <data key="d0">0.8259707886509732</data>
+    </edge>
+    <edge source="Rheumatoid arthritis" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.8419144069722648</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Allograft rejection">
+      <data key="d0">0.7549793484282857</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Antigen processing and presentation">
+      <data key="d0">0.7401233476329397</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Asthma">
+      <data key="d0">0.7245031418240714</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Autoimmune thyroid disease">
+      <data key="d0">0.7138237113390167</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Chemokine signaling pathway">
+      <data key="d0">0.7489880879082806</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Graft-versus-host disease">
+      <data key="d0">0.7479614478574242</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Hematopoietic cell lineage">
+      <data key="d0">0.8057603878978551</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Inflammatory bowel disease">
+      <data key="d0">0.781668760937383</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Intestinal immune network for IgA production">
+      <data key="d0">0.7926058790850947</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Leishmaniasis">
+      <data key="d0">0.7436863503153186</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7327185050314543</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Phagosome">
+      <data key="d0">0.7531586384036195</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7269651107650721</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Th17 cell differentiation">
+      <data key="d0">0.7002709067828253</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Tuberculosis">
+      <data key="d0">0.7758493969215026</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Viral myocarditis">
+      <data key="d0">0.7701370071741758</data>
+    </edge>
+    <edge source="Staphylococcus aureus infection" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7617543966991196</data>
+    </edge>
+    <edge source="Alcoholism" target="Neutrophil extracellular trap formation">
+      <data key="d0">0.8146963875933294</data>
+    </edge>
+    <edge source="Alcoholism" target="Systemic lupus erythematosus">
+      <data key="d0">0.7563936384747797</data>
+    </edge>
+    <edge source="Neutrophil extracellular trap formation" target="Systemic lupus erythematosus">
+      <data key="d0">0.9333793123023623</data>
+    </edge>
+    <edge source="Systemic lupus erythematosus" target="Viral carcinogenesis">
+      <data key="d0">0.7117455297649439</data>
+    </edge>
+    <edge source="Circadian entrainment" target="Cortisol synthesis and secretion">
+      <data key="d0">0.7304283775140062</data>
+    </edge>
+    <edge source="Circadian entrainment" target="Dopaminergic synapse">
+      <data key="d0">0.866577968894608</data>
+    </edge>
+    <edge source="Circadian entrainment" target="Glutamatergic synapse">
+      <data key="d0">0.8923152879461613</data>
+    </edge>
+    <edge source="Circadian entrainment" target="GnRH secretion">
+      <data key="d0">0.7319485419795941</data>
+    </edge>
+    <edge source="Circadian entrainment" target="Long-term depression">
+      <data key="d0">0.8009885805784577</data>
+    </edge>
+    <edge source="Circadian entrainment" target="Long-term potentiation">
+      <data key="d0">0.848741905649119</data>
+    </edge>
+    <edge source="Circadian entrainment" target="Serotonergic synapse">
+      <data key="d0">0.7921790924942143</data>
+    </edge>
+    <edge source="Cortisol synthesis and secretion" target="Glutamatergic synapse">
+      <data key="d0">0.7295887216144858</data>
+    </edge>
+    <edge source="Cortisol synthesis and secretion" target="GnRH secretion">
+      <data key="d0">0.7627912581348402</data>
+    </edge>
+    <edge source="Cortisol synthesis and secretion" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7446220839291585</data>
+    </edge>
+    <edge source="Cortisol synthesis and secretion" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.7035314819227828</data>
+    </edge>
+    <edge source="Cortisol synthesis and secretion" target="Serotonergic synapse">
+      <data key="d0">0.7265340902368571</data>
+    </edge>
+    <edge source="Cortisol synthesis and secretion" target="Thyroid hormone synthesis">
+      <data key="d0">0.7395424541496317</data>
+    </edge>
+    <edge source="Dopaminergic synapse" target="Amphetamine addiction">
+      <data key="d0">0.8121059191272526</data>
+    </edge>
+    <edge source="Dopaminergic synapse" target="Glutamatergic synapse">
+      <data key="d0">0.8566689519982906</data>
+    </edge>
+    <edge source="Dopaminergic synapse" target="Long-term depression">
+      <data key="d0">0.7340448777773801</data>
+    </edge>
+    <edge source="Dopaminergic synapse" target="Long-term potentiation">
+      <data key="d0">0.8173274528337839</data>
+    </edge>
+    <edge source="Dopaminergic synapse" target="Serotonergic synapse">
+      <data key="d0">0.7872814451837011</data>
+    </edge>
+    <edge source="Endocrine and other factor-regulated calcium reabsorption" target="Growth hormone synthesis, secretion and action">
+      <data key="d0">0.7483099235935211</data>
+    </edge>
+    <edge source="Endocrine and other factor-regulated calcium reabsorption" target="Pancreatic secretion">
+      <data key="d0">0.8034768411422075</data>
+    </edge>
+    <edge source="Endocrine and other factor-regulated calcium reabsorption" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.7503080485234302</data>
+    </edge>
+    <edge source="Endocrine and other factor-regulated calcium reabsorption" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7534997638171791</data>
+    </edge>
+    <edge source="Endocrine and other factor-regulated calcium reabsorption" target="Thyroid hormone synthesis">
+      <data key="d0">0.7168016508852428</data>
+    </edge>
+    <edge source="Gastric acid secretion" target="Inflammatory mediator regulation of TRP channels">
+      <data key="d0">0.7304088745425845</data>
+    </edge>
+    <edge source="Glutamatergic synapse" target="GnRH secretion">
+      <data key="d0">0.7825147620024696</data>
+    </edge>
+    <edge source="Glutamatergic synapse" target="Long-term depression">
+      <data key="d0">0.8092624527263395</data>
+    </edge>
+    <edge source="Glutamatergic synapse" target="Long-term potentiation">
+      <data key="d0">0.8055045225477401</data>
+    </edge>
+    <edge source="Glutamatergic synapse" target="Retrograde endocannabinoid signaling">
+      <data key="d0">0.7137699314817825</data>
+    </edge>
+    <edge source="Glutamatergic synapse" target="Serotonergic synapse">
+      <data key="d0">0.8386618945650283</data>
+    </edge>
+    <edge source="GnRH secretion" target="Serotonergic synapse">
+      <data key="d0">0.7172442345411172</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Hedgehog signaling pathway">
+      <data key="d0">0.7460892220746063</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Neurotrophin signaling pathway">
+      <data key="d0">0.7198877534512672</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Pancreatic secretion">
+      <data key="d0">0.7273622448325533</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.8278516837868318</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Prolactin signaling pathway">
+      <data key="d0">0.7236593114929493</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7694570284502474</data>
+    </edge>
+    <edge source="Growth hormone synthesis, secretion and action" target="Type II diabetes mellitus">
+      <data key="d0">0.7355159163252379</data>
+    </edge>
+    <edge source="Long-term potentiation" target="Glucagon signaling pathway">
+      <data key="d0">0.7453227554369168</data>
+    </edge>
+    <edge source="Long-term potentiation" target="Long-term depression">
+      <data key="d0">0.8391253637690713</data>
+    </edge>
+    <edge source="Serotonergic synapse" target="Long-term depression">
+      <data key="d0">0.7372412429364563</data>
+    </edge>
+    <edge source="Thyroid hormone synthesis" target="Pancreatic secretion">
+      <data key="d0">0.7291477862131668</data>
+    </edge>
+    <edge source="Allograft rejection" target="Antigen processing and presentation">
+      <data key="d0">0.9609636731807957</data>
+    </edge>
+    <edge source="Allograft rejection" target="Asthma">
+      <data key="d0">0.9370560393188831</data>
+    </edge>
+    <edge source="Allograft rejection" target="Autoimmune thyroid disease">
+      <data key="d0">0.9803249252540696</data>
+    </edge>
+    <edge source="Allograft rejection" target="Chemokine signaling pathway">
+      <data key="d0">0.703088492836212</data>
+    </edge>
+    <edge source="Allograft rejection" target="Cytosolic DNA-sensing pathway">
+      <data key="d0">0.724005524064923</data>
+    </edge>
+    <edge source="Allograft rejection" target="Epstein-Barr virus infection">
+      <data key="d0">0.7665636418002223</data>
+    </edge>
+    <edge source="Allograft rejection" target="Graft-versus-host disease">
+      <data key="d0">0.9927945656026865</data>
+    </edge>
+    <edge source="Allograft rejection" target="Hematopoietic cell lineage">
+      <data key="d0">0.8768088107767386</data>
+    </edge>
+    <edge source="Allograft rejection" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7240927051404349</data>
+    </edge>
+    <edge source="Allograft rejection" target="Inflammatory bowel disease">
+      <data key="d0">0.9029026818056622</data>
+    </edge>
+    <edge source="Allograft rejection" target="Influenza A">
+      <data key="d0">0.7538917815038793</data>
+    </edge>
+    <edge source="Allograft rejection" target="Intestinal immune network for IgA production">
+      <data key="d0">0.9247224305834914</data>
+    </edge>
+    <edge source="Allograft rejection" target="Leishmaniasis">
+      <data key="d0">0.8398114170285353</data>
+    </edge>
+    <edge source="Allograft rejection" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7356481973797069</data>
+    </edge>
+    <edge source="Allograft rejection" target="Phagosome">
+      <data key="d0">0.754454195782701</data>
+    </edge>
+    <edge source="Allograft rejection" target="Primary immunodeficiency">
+      <data key="d0">0.8453548432213497</data>
+    </edge>
+    <edge source="Allograft rejection" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8522787994536526</data>
+    </edge>
+    <edge source="Allograft rejection" target="Th17 cell differentiation">
+      <data key="d0">0.7922407528662049</data>
+    </edge>
+    <edge source="Allograft rejection" target="Tuberculosis">
+      <data key="d0">0.8546798960512811</data>
+    </edge>
+    <edge source="Allograft rejection" target="Type I diabetes mellitus">
+      <data key="d0">0.9578117695031604</data>
+    </edge>
+    <edge source="Allograft rejection" target="Viral myocarditis">
+      <data key="d0">0.917364592639189</data>
+    </edge>
+    <edge source="Allograft rejection" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7785936198243082</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Asthma">
+      <data key="d0">0.8672992352743448</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Autoimmune thyroid disease">
+      <data key="d0">0.9330979328476994</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Cytosolic DNA-sensing pathway">
+      <data key="d0">0.7567686005042688</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Epstein-Barr virus infection">
+      <data key="d0">0.8074493554506192</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Graft-versus-host disease">
+      <data key="d0">0.9538293330852379</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Hematopoietic cell lineage">
+      <data key="d0">0.8206605841372423</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7044691682779274</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Inflammatory bowel disease">
+      <data key="d0">0.8504275045663123</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Influenza A">
+      <data key="d0">0.7810018325836421</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Intestinal immune network for IgA production">
+      <data key="d0">0.873425170310868</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Leishmaniasis">
+      <data key="d0">0.7838903928650036</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7245410026527246</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Phagosome">
+      <data key="d0">0.7190914919847426</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Primary immunodeficiency">
+      <data key="d0">0.848110313963951</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8010924743447073</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Th17 cell differentiation">
+      <data key="d0">0.7470467790495212</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7178898239436935</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Tuberculosis">
+      <data key="d0">0.8084226935902203</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Type I diabetes mellitus">
+      <data key="d0">0.9072545973946039</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Viral myocarditis">
+      <data key="d0">0.8643348243061176</data>
+    </edge>
+    <edge source="Antigen processing and presentation" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7732147293362163</data>
+    </edge>
+    <edge source="Asthma" target="Autoimmune thyroid disease">
+      <data key="d0">0.9221394402478706</data>
+    </edge>
+    <edge source="Asthma" target="Graft-versus-host disease">
+      <data key="d0">0.9344925085128584</data>
+    </edge>
+    <edge source="Asthma" target="Hematopoietic cell lineage">
+      <data key="d0">0.8943495159929562</data>
+    </edge>
+    <edge source="Asthma" target="Inflammatory bowel disease">
+      <data key="d0">0.9252712176516572</data>
+    </edge>
+    <edge source="Asthma" target="Intestinal immune network for IgA production">
+      <data key="d0">0.9213431603121561</data>
+    </edge>
+    <edge source="Asthma" target="Leishmaniasis">
+      <data key="d0">0.9033759737600916</data>
+    </edge>
+    <edge source="Asthma" target="Phagosome">
+      <data key="d0">0.7379764992389591</data>
+    </edge>
+    <edge source="Asthma" target="Primary immunodeficiency">
+      <data key="d0">0.7129680277970517</data>
+    </edge>
+    <edge source="Asthma" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8452404905278785</data>
+    </edge>
+    <edge source="Asthma" target="Th17 cell differentiation">
+      <data key="d0">0.821668083994802</data>
+    </edge>
+    <edge source="Asthma" target="Toxoplasmosis">
+      <data key="d0">0.7265455109974733</data>
+    </edge>
+    <edge source="Asthma" target="Tuberculosis">
+      <data key="d0">0.8515066160178223</data>
+    </edge>
+    <edge source="Asthma" target="Type I diabetes mellitus">
+      <data key="d0">0.8994245438937922</data>
+    </edge>
+    <edge source="Asthma" target="Viral myocarditis">
+      <data key="d0">0.8861043222942446</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Epstein-Barr virus infection">
+      <data key="d0">0.7514774055489083</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Graft-versus-host disease">
+      <data key="d0">0.974952233417836</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Hematopoietic cell lineage">
+      <data key="d0">0.8636736818369811</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7177642301040991</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Inflammatory bowel disease">
+      <data key="d0">0.8725732670730246</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Influenza A">
+      <data key="d0">0.7424590759236785</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Intestinal immune network for IgA production">
+      <data key="d0">0.9018515695771013</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Leishmaniasis">
+      <data key="d0">0.8254775007790425</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7110319108905383</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Phagosome">
+      <data key="d0">0.7428069599911227</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Primary immunodeficiency">
+      <data key="d0">0.8297766664027775</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8401236290118042</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Th17 cell differentiation">
+      <data key="d0">0.7947842892184825</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Tuberculosis">
+      <data key="d0">0.8241173417046249</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Type I diabetes mellitus">
+      <data key="d0">0.958607155814126</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Viral myocarditis">
+      <data key="d0">0.8972230923294763</data>
+    </edge>
+    <edge source="Autoimmune thyroid disease" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.754523886567411</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="B cell receptor signaling pathway">
+      <data key="d0">0.7317514436987022</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Epstein-Barr virus infection">
+      <data key="d0">0.7537889040220556</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Hematopoietic cell lineage">
+      <data key="d0">0.8166047211600692</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.773612117752689</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Human cytomegalovirus infection">
+      <data key="d0">0.7102885402297563</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Inflammatory bowel disease">
+      <data key="d0">0.7160519543596953</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Influenza A">
+      <data key="d0">0.7523203382071629</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Intestinal immune network for IgA production">
+      <data key="d0">0.7406951361598034</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7024012768654541</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Leishmaniasis">
+      <data key="d0">0.7121754827422907</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Lipid and atherosclerosis">
+      <data key="d0">0.7637004784316601</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="NF-kappa B signaling pathway">
+      <data key="d0">0.81027500613372</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7840285422171324</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7900536332475444</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Phagosome">
+      <data key="d0">0.711230512993352</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Primary immunodeficiency">
+      <data key="d0">0.7146546973452175</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="T cell receptor signaling pathway">
+      <data key="d0">0.7349020305872643</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="TNF signaling pathway">
+      <data key="d0">0.7635713876189288</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7943620383836724</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Th17 cell differentiation">
+      <data key="d0">0.7582335794239546</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7738970759713996</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Tuberculosis">
+      <data key="d0">0.7470011650971796</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.8777822403609267</data>
+    </edge>
+    <edge source="Chemokine signaling pathway" target="Yersinia infection">
+      <data key="d0">0.7081052303244937</data>
+    </edge>
+    <edge source="Cytosolic DNA-sensing pathway" target="Epstein-Barr virus infection">
+      <data key="d0">0.7741611465459108</data>
+    </edge>
+    <edge source="Cytosolic DNA-sensing pathway" target="Graft-versus-host disease">
+      <data key="d0">0.723758098654406</data>
+    </edge>
+    <edge source="Cytosolic DNA-sensing pathway" target="NF-kappa B signaling pathway">
+      <data key="d0">0.758512294300075</data>
+    </edge>
+    <edge source="Cytosolic DNA-sensing pathway" target="Primary immunodeficiency">
+      <data key="d0">0.769588589012094</data>
+    </edge>
+    <edge source="Cytosolic DNA-sensing pathway" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7317952495946353</data>
+    </edge>
+    <edge source="Cytosolic DNA-sensing pathway" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7758596818646978</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Graft-versus-host disease">
+      <data key="d0">0.7595212362068666</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Hematopoietic cell lineage">
+      <data key="d0">0.7125774669261046</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Hepatitis C">
+      <data key="d0">0.7465800940910636</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7961346249709587</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Human immunodeficiency virus 1 infection">
+      <data key="d0">0.7938137327967107</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Influenza A">
+      <data key="d0">0.8848072830199549</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Measles">
+      <data key="d0">0.8501187365252256</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7457917172523372</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.7920193203469008</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.810475544820195</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7773404951450095</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Primary immunodeficiency">
+      <data key="d0">0.8092590463105199</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="TNF signaling pathway">
+      <data key="d0">0.7717885737331155</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.711240836620199</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.8218169740568424</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Type I diabetes mellitus">
+      <data key="d0">0.7084589163017767</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Viral myocarditis">
+      <data key="d0">0.7019222411492714</data>
+    </edge>
+    <edge source="Epstein-Barr virus infection" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7942924890718027</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Hematopoietic cell lineage">
+      <data key="d0">0.8742023826007808</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.7214901140916904</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Inflammatory bowel disease">
+      <data key="d0">0.9103136259033298</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Influenza A">
+      <data key="d0">0.758904836145772</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Intestinal immune network for IgA production">
+      <data key="d0">0.9238818149029062</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Leishmaniasis">
+      <data key="d0">0.8567393955365614</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7416656080096341</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Phagosome">
+      <data key="d0">0.762644789696971</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Primary immunodeficiency">
+      <data key="d0">0.8234245540017634</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8431410715443861</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Th17 cell differentiation">
+      <data key="d0">0.792410046506784</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7227643069681049</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Tuberculosis">
+      <data key="d0">0.8705326408534378</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Type I diabetes mellitus">
+      <data key="d0">0.9650823969896817</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Viral myocarditis">
+      <data key="d0">0.9064937468687541</data>
+    </edge>
+    <edge source="Graft-versus-host disease" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7738684224266846</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Human T-cell leukemia virus 1 infection">
+      <data key="d0">0.8132773257555138</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Inflammatory bowel disease">
+      <data key="d0">0.8993093661157181</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Influenza A">
+      <data key="d0">0.7456767713295493</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Intestinal immune network for IgA production">
+      <data key="d0">0.9112921058247943</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Leishmaniasis">
+      <data key="d0">0.8761424220909386</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="NF-kappa B signaling pathway">
+      <data key="d0">0.781767795549941</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7588003921539003</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Osteoclast differentiation">
+      <data key="d0">0.7644529628749075</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Phagosome">
+      <data key="d0">0.8037517993823423</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Primary immunodeficiency">
+      <data key="d0">0.7625527557879301</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8795772135977119</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Th17 cell differentiation">
+      <data key="d0">0.8739063569730764</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.712441355851071</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Toxoplasmosis">
+      <data key="d0">0.7855934391577482</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Tuberculosis">
+      <data key="d0">0.841184003525939</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Type I diabetes mellitus">
+      <data key="d0">0.8243935972456202</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Viral myocarditis">
+      <data key="d0">0.8762082339075197</data>
+    </edge>
+    <edge source="Hematopoietic cell lineage" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.8091013998482464</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Inflammatory bowel disease">
+      <data key="d0">0.7148290801455522</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Influenza A">
+      <data key="d0">0.7375442568670348</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Intestinal immune network for IgA production">
+      <data key="d0">0.7365662667514763</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7337160786872138</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7236075646021036</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7259172951817372</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Primary immunodeficiency">
+      <data key="d0">0.7107182361037377</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="T cell receptor signaling pathway">
+      <data key="d0">0.7298696168688681</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="TNF signaling pathway">
+      <data key="d0">0.7057102147790159</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7952129902028806</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Th17 cell differentiation">
+      <data key="d0">0.7323437777531009</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Tuberculosis">
+      <data key="d0">0.7046110052413289</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Viral myocarditis">
+      <data key="d0">0.7406089865845975</data>
+    </edge>
+    <edge source="Human T-cell leukemia virus 1 infection" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7474051322957701</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Influenza A">
+      <data key="d0">0.7360436667159683</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Intestinal immune network for IgA production">
+      <data key="d0">0.919690802040947</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Leishmaniasis">
+      <data key="d0">0.913759305462515</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7071141751093649</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Osteoclast differentiation">
+      <data key="d0">0.744142030579133</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Phagosome">
+      <data key="d0">0.7587116038804751</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8657015327010443</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Th17 cell differentiation">
+      <data key="d0">0.8860778942742119</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Toxoplasmosis">
+      <data key="d0">0.8172030443604675</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Tuberculosis">
+      <data key="d0">0.8770939106879416</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Type I diabetes mellitus">
+      <data key="d0">0.8624523072940605</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Viral myocarditis">
+      <data key="d0">0.8865441662552818</data>
+    </edge>
+    <edge source="Inflammatory bowel disease" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7174982048903485</data>
+    </edge>
+    <edge source="Influenza A" target="Hepatitis C">
+      <data key="d0">0.7538899088060838</data>
+    </edge>
+    <edge source="Influenza A" target="Intestinal immune network for IgA production">
+      <data key="d0">0.7449689784586795</data>
+    </edge>
+    <edge source="Influenza A" target="Lipid and atherosclerosis">
+      <data key="d0">0.7141829629146818</data>
+    </edge>
+    <edge source="Influenza A" target="Measles">
+      <data key="d0">0.8711265057841789</data>
+    </edge>
+    <edge source="Influenza A" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.8900456457562794</data>
+    </edge>
+    <edge source="Influenza A" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.7767633702904695</data>
+    </edge>
+    <edge source="Influenza A" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7796219093407476</data>
+    </edge>
+    <edge source="Influenza A" target="TNF signaling pathway">
+      <data key="d0">0.7964126826926883</data>
+    </edge>
+    <edge source="Influenza A" target="Th17 cell differentiation">
+      <data key="d0">0.7018452435674392</data>
+    </edge>
+    <edge source="Influenza A" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.8557270091498684</data>
+    </edge>
+    <edge source="Influenza A" target="Tuberculosis">
+      <data key="d0">0.7349885336122646</data>
+    </edge>
+    <edge source="Influenza A" target="Type I diabetes mellitus">
+      <data key="d0">0.7082589356845953</data>
+    </edge>
+    <edge source="Influenza A" target="Viral myocarditis">
+      <data key="d0">0.700693984163539</data>
+    </edge>
+    <edge source="Influenza A" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7500955797820419</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Leishmaniasis">
+      <data key="d0">0.864215352354466</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Natural killer cell mediated cytotoxicity">
+      <data key="d0">0.749701299499624</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Phagosome">
+      <data key="d0">0.7890729094711925</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Primary immunodeficiency">
+      <data key="d0">0.7686181614574586</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8581927975474439</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Th17 cell differentiation">
+      <data key="d0">0.817460704243644</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Toxoplasmosis">
+      <data key="d0">0.7684609514580366</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Tuberculosis">
+      <data key="d0">0.8541261812835291</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Type I diabetes mellitus">
+      <data key="d0">0.8745409380490169</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Viral myocarditis">
+      <data key="d0">0.9014250405884945</data>
+    </edge>
+    <edge source="Intestinal immune network for IgA production" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7457476788322658</data>
+    </edge>
+    <edge source="Leishmaniasis" target="B cell receptor signaling pathway">
+      <data key="d0">0.7200091433974085</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Osteoclast differentiation">
+      <data key="d0">0.8439236597640553</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Phagosome">
+      <data key="d0">0.8312306583169832</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.8344139330760312</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Th17 cell differentiation">
+      <data key="d0">0.8625310395791254</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7252183516946961</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Toxoplasmosis">
+      <data key="d0">0.8332633078928712</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Tuberculosis">
+      <data key="d0">0.8932760535230116</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Type I diabetes mellitus">
+      <data key="d0">0.8490561266836045</data>
+    </edge>
+    <edge source="Leishmaniasis" target="Viral myocarditis">
+      <data key="d0">0.8348913530161463</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="B cell receptor signaling pathway">
+      <data key="d0">0.7060488820100926</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7156230707309761</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Lipid and atherosclerosis">
+      <data key="d0">0.7298703081927593</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7310607492753778</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7305319342377058</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Phagosome">
+      <data key="d0">0.7364624546166375</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Primary immunodeficiency">
+      <data key="d0">0.7131681463223147</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="TNF signaling pathway">
+      <data key="d0">0.7890792213500114</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.715427350639135</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7703375592775692</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Tuberculosis">
+      <data key="d0">0.7631325975595794</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Viral myocarditis">
+      <data key="d0">0.7413946040391693</data>
+    </edge>
+    <edge source="Natural killer cell mediated cytotoxicity" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.8030417070467228</data>
+    </edge>
+    <edge source="Phagosome" target="Osteoclast differentiation">
+      <data key="d0">0.8019852551708024</data>
+    </edge>
+    <edge source="Phagosome" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7126809601207983</data>
+    </edge>
+    <edge source="Phagosome" target="Toxoplasmosis">
+      <data key="d0">0.701979907278508</data>
+    </edge>
+    <edge source="Phagosome" target="Tuberculosis">
+      <data key="d0">0.8524390175387616</data>
+    </edge>
+    <edge source="Phagosome" target="Type I diabetes mellitus">
+      <data key="d0">0.7388974038135593</data>
+    </edge>
+    <edge source="Phagosome" target="Viral myocarditis">
+      <data key="d0">0.7993370158416828</data>
+    </edge>
+    <edge source="Primary immunodeficiency" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7535036930165732</data>
+    </edge>
+    <edge source="Primary immunodeficiency" target="Th1 and Th2 cell differentiation">
+      <data key="d0">0.7522448328333714</data>
+    </edge>
+    <edge source="Primary immunodeficiency" target="Type I diabetes mellitus">
+      <data key="d0">0.7702845277653484</data>
+    </edge>
+    <edge source="Primary immunodeficiency" target="Viral myocarditis">
+      <data key="d0">0.7491570990010817</data>
+    </edge>
+    <edge source="Primary immunodeficiency" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.8524811633786311</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7415055460588914</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7239975495675928</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="T cell receptor signaling pathway">
+      <data key="d0">0.711316447551901</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="Th17 cell differentiation">
+      <data key="d0">0.9142853003197277</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="Toxoplasmosis">
+      <data key="d0">0.7759443378039379</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="Tuberculosis">
+      <data key="d0">0.8176904582646252</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="Type I diabetes mellitus">
+      <data key="d0">0.8112076834277059</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="Viral myocarditis">
+      <data key="d0">0.8467536701033399</data>
+    </edge>
+    <edge source="Th1 and Th2 cell differentiation" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7358303373722916</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="B cell receptor signaling pathway">
+      <data key="d0">0.7309930882373274</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="NF-kappa B signaling pathway">
+      <data key="d0">0.719509583915362</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="Osteoclast differentiation">
+      <data key="d0">0.7225146773520655</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7243308692309681</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="T cell receptor signaling pathway">
+      <data key="d0">0.7343841484663942</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="Toxoplasmosis">
+      <data key="d0">0.8256574207678451</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="Tuberculosis">
+      <data key="d0">0.786493458748351</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="Type I diabetes mellitus">
+      <data key="d0">0.7766255900781879</data>
+    </edge>
+    <edge source="Th17 cell differentiation" target="Viral myocarditis">
+      <data key="d0">0.80397845815017</data>
+    </edge>
+    <edge source="Tuberculosis" target="C-type lectin receptor signaling pathway">
+      <data key="d0">0.7395813513301984</data>
+    </edge>
+    <edge source="Tuberculosis" target="Lipid and atherosclerosis">
+      <data key="d0">0.719527617801372</data>
+    </edge>
+    <edge source="Tuberculosis" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7020665882689213</data>
+    </edge>
+    <edge source="Tuberculosis" target="Osteoclast differentiation">
+      <data key="d0">0.7928399621113774</data>
+    </edge>
+    <edge source="Tuberculosis" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7634109628935097</data>
+    </edge>
+    <edge source="Tuberculosis" target="Toxoplasmosis">
+      <data key="d0">0.7234087173191419</data>
+    </edge>
+    <edge source="Tuberculosis" target="Type I diabetes mellitus">
+      <data key="d0">0.8221932912770102</data>
+    </edge>
+    <edge source="Tuberculosis" target="Viral myocarditis">
+      <data key="d0">0.8372838476185764</data>
+    </edge>
+    <edge source="Tuberculosis" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7151464423926528</data>
+    </edge>
+    <edge source="Type I diabetes mellitus" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7017948576808043</data>
+    </edge>
+    <edge source="Type I diabetes mellitus" target="Viral myocarditis">
+      <data key="d0">0.8611070508708729</data>
+    </edge>
+    <edge source="Type I diabetes mellitus" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7141937462410956</data>
+    </edge>
+    <edge source="Viral myocarditis" target="Toxoplasmosis">
+      <data key="d0">0.7435713082803181</data>
+    </edge>
+    <edge source="Viral myocarditis" target="Viral protein interaction with cytokine and cytokine receptor">
+      <data key="d0">0.7207810035604673</data>
+    </edge>
+    <edge source="Viral protein interaction with cytokine and cytokine receptor" target="IL-17 signaling pathway">
+      <data key="d0">0.7162245534707683</data>
+    </edge>
+    <edge source="Viral protein interaction with cytokine and cytokine receptor" target="Lipid and atherosclerosis">
+      <data key="d0">0.7306284880132028</data>
+    </edge>
+    <edge source="Viral protein interaction with cytokine and cytokine receptor" target="NF-kappa B signaling pathway">
+      <data key="d0">0.8678498950083355</data>
+    </edge>
+    <edge source="Viral protein interaction with cytokine and cytokine receptor" target="TNF signaling pathway">
+      <data key="d0">0.7741320606929163</data>
+    </edge>
+    <edge source="Viral protein interaction with cytokine and cytokine receptor" target="Toll-like receptor signaling pathway">
+      <data key="d0">0.7725226851533131</data>
+    </edge>
+    <edge source="Alzheimer disease" target="Parkinson disease">
+      <data key="d0">0.7498858378822092</data>
+    </edge>
+    <edge source="Alzheimer disease" target="Pathways of neurodegeneration">
+      <data key="d0">0.8544117551816566</data>
+    </edge>
+    <edge source="Alzheimer disease" target="Prion disease">
+      <data key="d0">0.7031149695974823</data>
+    </edge>
+    <edge source="Parkinson disease" target="Amyotrophic lateral sclerosis">
+      <data key="d0">0.7605768834167215</data>
+    </edge>
+    <edge source="Parkinson disease" target="Huntington disease">
+      <data key="d0">0.8415640069121443</data>
+    </edge>
+    <edge source="Parkinson disease" target="Non-alcoholic fatty liver disease">
+      <data key="d0">0.7132395758352306</data>
+    </edge>
+    <edge source="Parkinson disease" target="Oxidative phosphorylation">
+      <data key="d0">0.8477991952457885</data>
+    </edge>
+    <edge source="Parkinson disease" target="Pathways of neurodegeneration">
+      <data key="d0">0.7231705811124143</data>
+    </edge>
+    <edge source="Parkinson disease" target="Prion disease">
+      <data key="d0">0.862327723369117</data>
+    </edge>
+    <edge source="Pathways of neurodegeneration" target="Amyotrophic lateral sclerosis">
+      <data key="d0">0.7044857857569491</data>
+    </edge>
+    <edge source="Pathways of neurodegeneration" target="Huntington disease">
+      <data key="d0">0.754132754628012</data>
+    </edge>
+    <edge source="Prion disease" target="Diabetic cardiomyopathy">
+      <data key="d0">0.7268977099509485</data>
+    </edge>
+    <edge source="Prion disease" target="Huntington disease">
+      <data key="d0">0.7402221706883353</data>
+    </edge>
+    <edge source="Prion disease" target="Non-alcoholic fatty liver disease">
+      <data key="d0">0.7580452526676965</data>
+    </edge>
+    <edge source="Prion disease" target="Oxidative phosphorylation">
+      <data key="d0">0.7901653807975552</data>
+    </edge>
+    <edge source="Toxoplasmosis" target="Osteoclast differentiation">
+      <data key="d0">0.7478159024118067</data>
+    </edge>
+    <edge source="Toxoplasmosis" target="Yersinia infection">
+      <data key="d0">0.7287549418335408</data>
+    </edge>
+    <edge source="Amphetamine addiction" target="Cocaine addiction">
+      <data key="d0">0.843939684057565</data>
+    </edge>
+    <edge source="Amyotrophic lateral sclerosis" target="Huntington disease">
+      <data key="d0">0.8051036877437128</data>
+    </edge>
+    <edge source="Huntington disease" target="Oxidative phosphorylation">
+      <data key="d0">0.7294655364707232</data>
+    </edge>
+    <edge source="Huntington disease" target="Thermogenesis">
+      <data key="d0">0.7155893777427432</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="B cell receptor signaling pathway">
+      <data key="d0">0.7032085684562056</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="C-type lectin receptor signaling pathway">
+      <data key="d0">0.7270420775668046</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7574072449400208</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="Lipid and atherosclerosis">
+      <data key="d0">0.7751362868460336</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="Measles">
+      <data key="d0">0.7776649112906528</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="NF-kappa B signaling pathway">
+      <data key="d0">0.751165109668947</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.8351546201514718</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="Osteoclast differentiation">
+      <data key="d0">0.7582546055287728</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.781342230455946</data>
+    </edge>
+    <edge source="Toll-like receptor signaling pathway" target="TNF signaling pathway">
+      <data key="d0">0.838169605017954</data>
+    </edge>
+    <edge source="Apelin signaling pathway" target="Parathyroid hormone synthesis, secretion and action">
+      <data key="d0">0.7063464512574767</data>
+    </edge>
+    <edge source="Apelin signaling pathway" target="Phospholipase D signaling pathway">
+      <data key="d0">0.7192701015803522</data>
+    </edge>
+    <edge source="Apelin signaling pathway" target="Platelet activation">
+      <data key="d0">0.7488716776511337</data>
+    </edge>
+    <edge source="Apelin signaling pathway" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7006310820534586</data>
+    </edge>
+    <edge source="Apelin signaling pathway" target="Vascular smooth muscle contraction">
+      <data key="d0">0.7406444467255464</data>
+    </edge>
+    <edge source="Parathyroid hormone synthesis, secretion and action" target="Gap junction">
+      <data key="d0">0.7112080105599065</data>
+    </edge>
+    <edge source="Parathyroid hormone synthesis, secretion and action" target="Pancreatic secretion">
+      <data key="d0">0.7229268790317213</data>
+    </edge>
+    <edge source="Parathyroid hormone synthesis, secretion and action" target="Thyroid hormone signaling pathway">
+      <data key="d0">0.7282987993023619</data>
+    </edge>
+    <edge source="Phospholipase D signaling pathway" target="Gap junction">
+      <data key="d0">0.7045408287800481</data>
+    </edge>
+    <edge source="Phospholipase D signaling pathway" target="Platelet activation">
+      <data key="d0">0.7047163466308574</data>
+    </edge>
+    <edge source="Phospholipase D signaling pathway" target="Rap1 signaling pathway">
+      <data key="d0">0.8099622904021508</data>
+    </edge>
+    <edge source="Phospholipase D signaling pathway" target="Ras signaling pathway">
+      <data key="d0">0.7848280576308662</data>
+    </edge>
+    <edge source="Phospholipase D signaling pathway" target="Vascular smooth muscle contraction">
+      <data key="d0">0.742247451210669</data>
+    </edge>
+    <edge source="Platelet activation" target="Gap junction">
+      <data key="d0">0.7517698740139215</data>
+    </edge>
+    <edge source="Platelet activation" target="Long-term depression">
+      <data key="d0">0.7079360287698832</data>
+    </edge>
+    <edge source="Platelet activation" target="Rap1 signaling pathway">
+      <data key="d0">0.7248413742681173</data>
+    </edge>
+    <edge source="Thyroid hormone signaling pathway" target="Autophagy">
+      <data key="d0">0.7001540899341193</data>
+    </edge>
+    <edge source="Thyroid hormone signaling pathway" target="Pancreatic secretion">
+      <data key="d0">0.7151570587266798</data>
+    </edge>
+    <edge source="Thyroid hormone signaling pathway" target="Phosphatidylinositol signaling system">
+      <data key="d0">0.7331828715692519</data>
+    </edge>
+    <edge source="Thyroid hormone signaling pathway" target="Renal cell carcinoma">
+      <data key="d0">0.758344599348429</data>
+    </edge>
+    <edge source="Thyroid hormone signaling pathway" target="Ribosome">
+      <data key="d0">-0.7248063703306665</data>
+    </edge>
+    <edge source="Vascular smooth muscle contraction" target="Rap1 signaling pathway">
+      <data key="d0">0.7482741543821424</data>
+    </edge>
+    <edge source="Vascular smooth muscle contraction" target="Ras signaling pathway">
+      <data key="d0">0.7299734942018283</data>
+    </edge>
+    <edge source="Vascular smooth muscle contraction" target="Renin secretion">
+      <data key="d0">0.7113354573825587</data>
+    </edge>
+    <edge source="Ascorbate and aldarate metabolism" target="Pentose and glucuronate interconversions">
+      <data key="d0">0.861754559287075</data>
+    </edge>
+    <edge source="Ascorbate and aldarate metabolism" target="Porphyrin and chlorophyll metabolism">
+      <data key="d0">0.7974698065600909</data>
+    </edge>
+    <edge source="Pentose and glucuronate interconversions" target="Porphyrin and chlorophyll metabolism">
+      <data key="d0">0.7209624547318462</data>
+    </edge>
+    <edge source="Pentose and glucuronate interconversions" target="Retinol metabolism">
+      <data key="d0">0.768601605642513</data>
+    </edge>
+    <edge source="Porphyrin and chlorophyll metabolism" target="Steroid hormone biosynthesis">
+      <data key="d0">0.7156718051091464</data>
+    </edge>
+    <edge source="Autophagy" target="Phosphatidylinositol signaling system">
+      <data key="d0">0.7174998233074832</data>
+    </edge>
+    <edge source="Phosphatidylinositol signaling system" target="Inositol phosphate metabolism">
+      <data key="d0">0.8976513348635277</data>
+    </edge>
+    <edge source="Phosphatidylinositol signaling system" target="Long-term depression">
+      <data key="d0">0.7314495741938611</data>
+    </edge>
+    <edge source="Phosphatidylinositol signaling system" target="Pancreatic secretion">
+      <data key="d0">0.7072149115071567</data>
+    </edge>
+    <edge source="Phosphatidylinositol signaling system" target="Ribosome">
+      <data key="d0">-0.7052657158411938</data>
+    </edge>
+    <edge source="Phosphatidylinositol signaling system" target="Spinocerebellar ataxia">
+      <data key="d0">0.714294924824459</data>
+    </edge>
+    <edge source="B cell receptor signaling pathway" target="C-type lectin receptor signaling pathway">
+      <data key="d0">0.7437737921526599</data>
+    </edge>
+    <edge source="B cell receptor signaling pathway" target="Osteoclast differentiation">
+      <data key="d0">0.7512156855758818</data>
+    </edge>
+    <edge source="B cell receptor signaling pathway" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7454683016965048</data>
+    </edge>
+    <edge source="B cell receptor signaling pathway" target="T cell receptor signaling pathway">
+      <data key="d0">0.7779039823562987</data>
+    </edge>
+    <edge source="B cell receptor signaling pathway" target="Yersinia infection">
+      <data key="d0">0.7569334247569154</data>
+    </edge>
+    <edge source="C-type lectin receptor signaling pathway" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7458349551648235</data>
+    </edge>
+    <edge source="C-type lectin receptor signaling pathway" target="Lipid and atherosclerosis">
+      <data key="d0">0.7167996144503842</data>
+    </edge>
+    <edge source="C-type lectin receptor signaling pathway" target="PD-L1 expression and PD-1 checkpoint pathway in cancer">
+      <data key="d0">0.7463023988963855</data>
+    </edge>
+    <edge source="C-type lectin receptor signaling pathway" target="T cell receptor signaling pathway">
+      <data key="d0">0.7408516919812637</data>
+    </edge>
+    <edge source="C-type lectin receptor signaling pathway" target="Yersinia infection">
+      <data key="d0">0.706966887387064</data>
+    </edge>
+    <edge source="Osteoclast differentiation" target="Yersinia infection">
+      <data key="d0">0.7025074903066999</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="Human cytomegalovirus infection">
+      <data key="d0">0.7073748383238464</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="Human immunodeficiency virus 1 infection">
+      <data key="d0">0.7560502644264974</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7622447907493692</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="Lipid and atherosclerosis">
+      <data key="d0">0.7449079680086892</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="Measles">
+      <data key="d0">0.7368957195120847</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.7063647229681687</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="T cell receptor signaling pathway">
+      <data key="d0">0.818431574783371</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="TNF signaling pathway">
+      <data key="d0">0.7349222342162416</data>
+    </edge>
+    <edge source="PD-L1 expression and PD-1 checkpoint pathway in cancer" target="Yersinia infection">
+      <data key="d0">0.756128866263735</data>
+    </edge>
+    <edge source="T cell receptor signaling pathway" target="Human immunodeficiency virus 1 infection">
+      <data key="d0">0.7020870221770074</data>
+    </edge>
+    <edge source="Yersinia infection" target="Kaposi sarcoma-associated herpesvirus infection">
+      <data key="d0">0.7558436331963849</data>
+    </edge>
+    <edge source="Yersinia infection" target="Lipid and atherosclerosis">
+      <data key="d0">0.7685953132570577</data>
+    </edge>
+    <edge source="Yersinia infection" target="Salmonella infection">
+      <data key="d0">0.7321208233124</data>
+    </edge>
+    <edge source="MicroRNAs in cancer" target="Cellular senescence">
+      <data key="d0">0.744293810506637</data>
+    </edge>
+    <edge source="MicroRNAs in cancer" target="Peroxisome">
+      <data key="d0">-0.7324036308639545</data>
+    </edge>
+    <edge source="Biosynthesis of unsaturated fatty acids" target="Fatty acid elongation">
+      <data key="d0">0.796340515984609</data>
+    </edge>
+    <edge source="Breast cancer" target="Chronic myeloid leukemia">
+      <data key="d0">0.7204485734360302</data>
+    </edge>
+    <edge source="Breast cancer" target="Gastric cancer">
+      <data key="d0">0.8586500256205907</data>
+    </edge>
+    <edge source="Breast cancer" target="Hepatocellular carcinoma">
+      <data key="d0">0.7494621078336342</data>
+    </edge>
+    <edge source="Chronic myeloid leukemia" target="Colorectal cancer">
+      <data key="d0">0.7156401849295706</data>
+    </edge>
+    <edge source="Chronic myeloid leukemia" target="Gastric cancer">
+      <data key="d0">0.7000185115187074</data>
+    </edge>
+    <edge source="Chronic myeloid leukemia" target="Hepatitis B">
+      <data key="d0">0.7268943631727838</data>
+    </edge>
+    <edge source="Chronic myeloid leukemia" target="Pancreatic cancer">
+      <data key="d0">0.7517766975428648</data>
+    </edge>
+    <edge source="Chronic myeloid leukemia" target="Prostate cancer">
+      <data key="d0">0.7263135125724938</data>
+    </edge>
+    <edge source="Chronic myeloid leukemia" target="Small cell lung cancer">
+      <data key="d0">0.7006919547258944</data>
+    </edge>
+    <edge source="Gastric cancer" target="Hepatocellular carcinoma">
+      <data key="d0">0.7953366057948617</data>
+    </edge>
+    <edge source="Gastric cancer" target="Hippo signaling pathway">
+      <data key="d0">0.787478653272314</data>
+    </edge>
+    <edge source="Gastric cancer" target="Signaling pathways regulating pluripotency of stem cells">
+      <data key="d0">0.730913081102846</data>
+    </edge>
+    <edge source="Butanoate metabolism" target="Synthesis and degradation of ketone bodies">
+      <data key="d0">0.8354161883915852</data>
+    </edge>
+    <edge source="Butanoate metabolism" target="Valine, leucine and isoleucine degradation">
+      <data key="d0">0.80691040072387</data>
+    </edge>
+    <edge source="Valine, leucine and isoleucine degradation" target="Peroxisome">
+      <data key="d0">0.7075742628060508</data>
+    </edge>
+    <edge source="Valine, leucine and isoleucine degradation" target="Propanoate metabolism">
+      <data key="d0">0.8074859854749055</data>
+    </edge>
+    <edge source="Kaposi sarcoma-associated herpesvirus infection" target="Hepatitis B">
+      <data key="d0">0.7069325971630708</data>
+    </edge>
+    <edge source="Kaposi sarcoma-associated herpesvirus infection" target="Human cytomegalovirus infection">
+      <data key="d0">0.8728173423018899</data>
+    </edge>
+    <edge source="Kaposi sarcoma-associated herpesvirus infection" target="Human immunodeficiency virus 1 infection">
+      <data key="d0">0.7176223604176537</data>
+    </edge>
+    <edge source="Kaposi sarcoma-associated herpesvirus infection" target="Lipid and atherosclerosis">
+      <data key="d0">0.737142472447431</data>
+    </edge>
+    <edge source="Kaposi sarcoma-associated herpesvirus infection" target="TNF signaling pathway">
+      <data key="d0">0.7808613790571166</data>
+    </edge>
+    <edge source="Lipid and atherosclerosis" target="Legionellosis">
+      <data key="d0">0.7118179777350516</data>
+    </edge>
+    <edge source="Lipid and atherosclerosis" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7381837167166082</data>
+    </edge>
+    <edge source="Lipid and atherosclerosis" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.7123275886670937</data>
+    </edge>
+    <edge source="Lipid and atherosclerosis" target="TNF signaling pathway">
+      <data key="d0">0.7942394106681024</data>
+    </edge>
+    <edge source="Cell cycle" target="Cellular senescence">
+      <data key="d0">0.7307757875013946</data>
+    </edge>
+    <edge source="Cell cycle" target="DNA replication">
+      <data key="d0">0.8571198680938495</data>
+    </edge>
+    <edge source="Cell cycle" target="Homologous recombination">
+      <data key="d0">0.7808216910342882</data>
+    </edge>
+    <edge source="Cell cycle" target="Mismatch repair">
+      <data key="d0">0.8202724648471328</data>
+    </edge>
+    <edge source="Cell cycle" target="One carbon pool by folate">
+      <data key="d0">0.7066879138493555</data>
+    </edge>
+    <edge source="DNA replication" target="Fanconi anemia pathway">
+      <data key="d0">0.7893229187563348</data>
+    </edge>
+    <edge source="DNA replication" target="Homologous recombination">
+      <data key="d0">0.8789093393054785</data>
+    </edge>
+    <edge source="DNA replication" target="Mismatch repair">
+      <data key="d0">0.9017029557089955</data>
+    </edge>
+    <edge source="DNA replication" target="Nucleotide excision repair">
+      <data key="d0">0.7226504823133387</data>
+    </edge>
+    <edge source="Homologous recombination" target="Fanconi anemia pathway">
+      <data key="d0">0.9043160334508346</data>
+    </edge>
+    <edge source="Homologous recombination" target="Mismatch repair">
+      <data key="d0">0.8692512946714968</data>
+    </edge>
+    <edge source="Homologous recombination" target="Nucleotide excision repair">
+      <data key="d0">0.720319224304911</data>
+    </edge>
+    <edge source="Mismatch repair" target="Fanconi anemia pathway">
+      <data key="d0">0.8399742440408338</data>
+    </edge>
+    <edge source="Mismatch repair" target="Nucleotide excision repair">
+      <data key="d0">0.8103847192297299</data>
+    </edge>
+    <edge source="Human cytomegalovirus infection" target="Hepatitis B">
+      <data key="d0">0.7099565627537977</data>
+    </edge>
+    <edge source="Human cytomegalovirus infection" target="Human immunodeficiency virus 1 infection">
+      <data key="d0">0.722237495049644</data>
+    </edge>
+    <edge source="TNF signaling pathway" target="IL-17 signaling pathway">
+      <data key="d0">0.7300300712449359</data>
+    </edge>
+    <edge source="TNF signaling pathway" target="NF-kappa B signaling pathway">
+      <data key="d0">0.7927877453278492</data>
+    </edge>
+    <edge source="TNF signaling pathway" target="NOD-like receptor signaling pathway">
+      <data key="d0">0.7642164378314433</data>
+    </edge>
+    <edge source="Cholesterol metabolism" target="Complement and coagulation cascades">
+      <data key="d0">0.7376758051605973</data>
+    </edge>
+    <edge source="Cholesterol metabolism" target="Fat digestion and absorption">
+      <data key="d0">0.7078194650148506</data>
+    </edge>
+    <edge source="Cholesterol metabolism" target="PPAR signaling pathway">
+      <data key="d0">0.7711752459793321</data>
+    </edge>
+    <edge source="Choline metabolism in cancer" target="Prostate cancer">
+      <data key="d0">0.7135415617420665</data>
+    </edge>
+    <edge source="Choline metabolism in cancer" target="Renal cell carcinoma">
+      <data key="d0">0.7014262655765301</data>
+    </edge>
+    <edge source="Prostate cancer" target="Gap junction">
+      <data key="d0">0.7376374470649841</data>
+    </edge>
+    <edge source="Prostate cancer" target="Hippo signaling pathway">
+      <data key="d0">0.7019829765580612</data>
+    </edge>
+    <edge source="Prostate cancer" target="Melanoma">
+      <data key="d0">0.7752805705517791</data>
+    </edge>
+    <edge source="Prostate cancer" target="Pancreatic cancer">
+      <data key="d0">0.7535951658066784</data>
+    </edge>
+    <edge source="Prostate cancer" target="Renal cell carcinoma">
+      <data key="d0">0.7331736097692466</data>
+    </edge>
+    <edge source="Renal cell carcinoma" target="Pancreatic cancer">
+      <data key="d0">0.7069843704095123</data>
+    </edge>
+    <edge source="Long-term depression" target="Pancreatic secretion">
+      <data key="d0">0.7109894411130312</data>
+    </edge>
+    <edge source="Colorectal cancer" target="Endometrial cancer">
+      <data key="d0">0.7818793100042218</data>
+    </edge>
+    <edge source="Colorectal cancer" target="Hepatitis B">
+      <data key="d0">0.766298814723928</data>
+    </edge>
+    <edge source="Colorectal cancer" target="Pancreatic cancer">
+      <data key="d0">0.8064841411647116</data>
+    </edge>
+    <edge source="Hepatitis B" target="Pancreatic cancer">
+      <data key="d0">0.785785742987436</data>
+    </edge>
+    <edge source="Pancreatic cancer" target="Endometrial cancer">
+      <data key="d0">0.7611310889848475</data>
+    </edge>
+    <edge source="Collecting duct acid secretion" target="Vibrio cholerae infection">
+      <data key="d0">0.7693945655313996</data>
+    </edge>
+    <edge source="NOD-like receptor signaling pathway" target="Hepatitis C">
+      <data key="d0">0.7114475840354735</data>
+    </edge>
+    <edge source="NOD-like receptor signaling pathway" target="Measles">
+      <data key="d0">0.8090110300926151</data>
+    </edge>
+    <edge source="NOD-like receptor signaling pathway" target="RIG-I-like receptor signaling pathway">
+      <data key="d0">0.7258806819279293</data>
+    </edge>
+    <edge source="Fanconi anemia pathway" target="Nucleotide excision repair">
+      <data key="d0">0.7743111715088591</data>
+    </edge>
+    <edge source="Diabetic cardiomyopathy" target="Non-alcoholic fatty liver disease">
+      <data key="d0">0.7195157497913399</data>
+    </edge>
+    <edge source="Diabetic cardiomyopathy" target="Oxidative phosphorylation">
+      <data key="d0">0.7241194245554764</data>
+    </edge>
+    <edge source="Non-alcoholic fatty liver disease" target="Oxidative phosphorylation">
+      <data key="d0">0.7398538496432234</data>
+    </edge>
+    <edge source="Non-alcoholic fatty liver disease" target="Thermogenesis">
+      <data key="d0">0.7675260450632114</data>
+    </edge>
+    <edge source="Oxidative phosphorylation" target="Thermogenesis">
+      <data key="d0">0.7955041977310475</data>
+    </edge>
+    <edge source="Drug metabolism" target="Metabolism of xenobiotics by cytochrome P450">
+      <data key="d0">0.8881665057032474</data>
+    </edge>
+    <edge source="Drug metabolism" target="Retinol metabolism">
+      <data key="d0">0.7041014364387896</data>
+    </edge>
+    <edge source="Drug metabolism" target="Steroid hormone biosynthesis">
+      <data key="d0">0.7102389176705648</data>
+    </edge>
+    <edge source="Metabolism of xenobiotics by cytochrome P450" target="Retinol metabolism">
+      <data key="d0">0.7740731601953376</data>
+    </edge>
+    <edge source="Metabolism of xenobiotics by cytochrome P450" target="Steroid hormone biosynthesis">
+      <data key="d0">0.7615512708680355</data>
+    </edge>
+    <edge source="Retinol metabolism" target="Steroid hormone biosynthesis">
+      <data key="d0">0.7516609833132017</data>
+    </edge>
+    <edge source="Hippo signaling pathway" target="Signaling pathways regulating pluripotency of stem cells">
+      <data key="d0">0.7435350218690696</data>
+    </edge>
+    <edge source="Pancreatic secretion" target="Ribosome">
+      <data key="d0">-0.7209777410029005</data>
+    </edge>
+    <edge source="Hepatitis C" target="Human immunodeficiency virus 1 infection">
+      <data key="d0">0.7181115872052597</data>
+    </edge>
+    <edge source="Hepatitis C" target="Measles">
+      <data key="d0">0.8617376884706645</data>
+    </edge>
+    <edge source="Human immunodeficiency virus 1 infection" target="Measles">
+      <data key="d0">0.7031816042442987</data>
+    </edge>
+    <edge source="Fatty acid degradation" target="beta-Alanine metabolism">
+      <data key="d0">0.7177572728350691</data>
+    </edge>
+    <edge source="beta-Alanine metabolism" target="Histidine metabolism">
+      <data key="d0">0.7230943313443524</data>
+    </edge>
+    <edge source="Melanoma" target="Glioma">
+      <data key="d0">0.7046139704475407</data>
+    </edge>
+    <edge source="Rap1 signaling pathway" target="Ras signaling pathway">
+      <data key="d0">0.8237654045650177</data>
+    </edge>
+    <edge source="GABAergic synapse" target="Morphine addiction">
+      <data key="d0">0.7350575088665031</data>
+    </edge>
+    <edge source="Morphine addiction" target="Retrograde endocannabinoid signaling">
+      <data key="d0">0.7772338057531102</data>
+    </edge>
+    <edge source="Glyoxylate and dicarboxylate metabolism" target="Pyruvate metabolism">
+      <data key="d0">0.7151578585320689</data>
+    </edge>
+    <edge source="Hedgehog signaling pathway" target="Type II diabetes mellitus">
+      <data key="d0">0.7691188060236738</data>
+    </edge>
+    <edge source="Linoleic acid metabolism" target="alpha-Linolenic acid metabolism">
+      <data key="d0">0.7540529643322615</data>
+    </edge>
+    <edge source="N-Glycan biosynthesis" target="Various types of N-glycan biosynthesis">
+      <data key="d0">0.7005029400139152</data>
+    </edge>
+    <edge source="Oocyte meiosis" target="Progesterone-mediated oocyte maturation">
+      <data key="d0">0.9270048590075669</data>
+    </edge>
+    <edge source="Ribosome" target="RNA polymerase">
+      <data key="d0">0.7179175405196162</data>
+    </edge>
+    <edge source="Phenylalanine metabolism" target="Tyrosine metabolism">
+      <data key="d0">0.8374338717852009</data>
+    </edge>
+    <edge source="RNA degradation" target="RNA transport">
+      <data key="d0">0.7210180397554893</data>
+    </edge>
+    <edge source="RNA transport" target="Ribosome biogenesis in eukaryotes">
+      <data key="d0">0.749902205103588</data>
+    </edge>
+    <edge source="RNA transport" target="mRNA surveillance pathway">
+      <data key="d0">0.7308215877065021</data>
+    </edge>
+    <edge source="RNA polymerase" target="Ribosome biogenesis in eukaryotes">
+      <data key="d0">0.7921877316108276</data>
+    </edge>
+  </graph>
+</graphml>
